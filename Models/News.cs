@@ -8,12 +8,13 @@ public class News {
     public int Id {get; set;}
 
     [Display (Name = "Titel:")]
-    [Required]
+    [MaxLength(120, ErrorMessage = "Max 120 tecken")]
+    [Required(ErrorMessage = "Obligatoriskt fält")]
     public string? Title {get; set;}
 
 
     [Display (Name = "Inlägg:")]
-    [Required]
+    [Required(ErrorMessage = "Obligatoriskt fält")]
     public string? Post {get; set;}
 
 

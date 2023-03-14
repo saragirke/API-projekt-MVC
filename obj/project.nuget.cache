@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JlBSGvbkO+FycL4aNw5RrWRfUFqpRsFhR7ZYh8MXsCOjpGyyjG3u9NOclBoNNz8lhlF3M914LB7BEMPkK1RBWQ==",
+  "dgSpecHash": "kn/sLybARAVtTYa6xT2gvyxupLkk3NmMbq7ywzZ/VNL4A/ecxzBdGnurZe/sh4nP5ZaRCAePWw+hGsFD8pBLww==",
   "success": true,
   "projectFilePath": "C:\\Users\\maxor\\AdminPoodle\\AdminPoodle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\maxor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\maxor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\maxor\\.nuget\\packages\\lazziya.imageresize\\4.1.4\\lazziya.imageresize.4.1.4.nupkg.sha512",
     "C:\\Users\\maxor\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.0\\microsoft.aspnetcore.cryptography.internal.7.0.0.nupkg.sha512",
     "C:\\Users\\maxor\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.0\\microsoft.aspnetcore.cryptography.keyderivation.7.0.0.nupkg.sha512",
     "C:\\Users\\maxor\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\7.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.0.nupkg.sha512",

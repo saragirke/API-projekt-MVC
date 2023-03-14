@@ -56,7 +56,7 @@ namespace AdminPoodle.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,CommenterName,Age,About,Email,DateCreated")] Interest interest)
+        public async Task<IActionResult> Create([Bind("Id,FirstName,LastName,Age,About,Email,DateCreated")] Interest interest)
         {
             if (ModelState.IsValid)
             {
@@ -88,7 +88,7 @@ namespace AdminPoodle.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,CommenterName,Age,About,Email,DateCreated")] Interest interest)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,FirstName,LastName,Age,About,Email,DateCreated")] Interest interest)
         {
             if (id != interest.Id)
             {

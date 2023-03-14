@@ -59,6 +59,22 @@
           }
         }
       },
+      "LazZiya.ImageResize/4.1.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Drawing.Common": "5.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/LazZiya.ImageResize.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LazZiya.ImageResize.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/7.0.0": {
         "type": "package",
         "compile": {
@@ -4356,6 +4372,22 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "LazZiya.ImageResize/4.1.4": {
+      "sha512": "/6Kexzt94MQtRXku8wFmwCrcS62hzHdZPyZGN7Qcrpg4jwQVzZjvv7ub/tM8SqE0hxPW62mW1yTSiSU6Ci7mmQ==",
+      "type": "package",
+      "path": "lazziya.imageresize/4.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.ico",
+        "icon.png",
+        "lazziya.imageresize.4.1.4.nupkg.sha512",
+        "lazziya.imageresize.nuspec",
+        "lib/netstandard2.0/LazZiya.ImageResize.dll",
+        "lib/netstandard2.0/LazZiya.ImageResize.xml",
+        "license.txt"
       ]
     },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.0": {
@@ -11870,6 +11902,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "LazZiya.ImageResize >= 4.1.4",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 7.0.0",
       "Microsoft.AspNetCore.Hosting >= 2.2.7",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.0",
@@ -11927,6 +11960,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "LazZiya.ImageResize": {
+            "target": "Package",
+            "version": "[4.1.4, )"
+          },
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.0, )"

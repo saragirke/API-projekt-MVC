@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using AdminPoodle.Data;
 using AdminPoodle.Models;
 using Microsoft.AspNetCore.Hosting;
+using LazZiya.ImageResize; // Bilder
+using System.Drawing; // Bilder
 
 namespace AdminPoodle.Controllers
 {
@@ -16,6 +18,10 @@ namespace AdminPoodle.Controllers
         private readonly ApplicationDbContext _context;
         private readonly IWebHostEnvironment _hostEnvironment;
         private string wwwRootPath;
+
+        //Bilder
+        private int ImageWidth= 640;
+        private int ImageHeigth=420;
 
         public NewsController(ApplicationDbContext context, IWebHostEnvironment hostEnvironment)
         {
@@ -82,6 +88,9 @@ namespace AdminPoodle.Controllers
                     {
                         await news.ImageFile.CopyToAsync(fileStream);
                     }
+
+                    //Funktino för att ange bildens storlek
+                    createImageFile(fileName);
 
                 }
                 else {
@@ -189,5 +198,18 @@ namespace AdminPoodle.Controllers
         {
           return (_context.News?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+
+        //Funktion för biler
+         
+         private void createImageFile(string fileName) {
+
+            using(var img = Image.FromFile(Path.Combine(wwwRootPath + "/imageupload/" , fileName))) {
+              
+               img.Scale(ImageWidth, ImageHeigth).SaveAs(Path.Combine(wwwRootPath + "/imageupload" + fileName));
+            } 
+
+
+         }
+
     }
 }

@@ -13,19 +13,33 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
+[Authorize]
     public IActionResult Index()
-    {
-        return View();
-    }
-
-    public IActionResult Privacy()
     {
         return View();
     }
 
 [Authorize]
         public IActionResult News()
+    {
+        return View();
+    }
+
+    [Authorize]
+        public IActionResult Pup()
+    {
+        return View();
+    }
+
+    [Authorize]
+        public IActionResult Interest()
+    {
+        return View();
+    }
+
+    
+    [Authorize]
+        public IActionResult Buyer()
     {
         return View();
     }

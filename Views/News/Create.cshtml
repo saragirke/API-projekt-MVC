@@ -4,45 +4,70 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Nytt inlägg</h1>
 
-<h4>News</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Title" class="control-label"></label>
+
+
+            <div class="form-outline mb-4">
+                <label class="form-label" asp-for="Title" class="control-label"></label>
+                <div>
                 <input asp-for="Title" class="form-control" />
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Post" class="control-label"></label>
-                <input asp-for="Post" class="form-control" />
+            </div>
+
+
+            <div class="form-outline mb-4">
+                <label class="form-label" asp-for="Post" class="control-label"></label>
+                <div>
+                <textarea asp-for="Post" class="form-control"></textarea>
                 <span asp-validation-for="Post" class="text-danger"></span>
-            </div><br>
+            </div></div><br>
+
+
             <div class="form-group">
                 <label asp-for="ImageFile" class="control-label"></label>
                 <input asp-for="ImageFile" accept="image/*" />
                 <span asp-validation-for="ImageFile" class="text-danger"></span>
             </div><br>
+
             <div class="form-group">
-                <label asp-for="DateCreated" class="control-label"></label>
-                <input asp-for="DateCreated" class="form-control" />
-                <span asp-validation-for="DateCreated" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Posta" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
-
+<br>
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Tillbaka</a>
 </div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+         <script>
+           tinymce.init({
+               selector: 'textarea#Post',
+                   width: 700,
+                   sheight: 300,
+                   plugins: [
+      'advlist', 'autolink', 'link', 'image', 'lists', 'charmap', 'preview',
+       'anchor', 'pagebreak',
+      'searchreplace', 'wordcount', 'visualblocks', 'visualchars', 'code',
+      'fullscreen', 'insertdatetime',
+      'media', 'table', 'emoticons', 'template', 'help'
+    ],
+                   toolbar: 'undo redo | styles | bold italic | alignleft aligncenter alignright alignjustify | ' +
+'bullist numlist outdent indent | link image | print preview media fullscreen | ' +
+      'forecolor backcolor emoticons | help'
+           });
+       </script>
+
 }
+
+
