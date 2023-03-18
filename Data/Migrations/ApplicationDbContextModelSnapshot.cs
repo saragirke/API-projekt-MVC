@@ -37,45 +37,19 @@ namespace AdminPoodle.Data.Migrations
                         .HasMaxLength(120)
                         .HasColumnType("TEXT");
 
-                    b.Property<int?>("Number")
+                    b.Property<string>("Number")
                         .IsRequired()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("TEXT");
 
                     b.Property<int?>("PupId")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("PupId");
+                    b.HasIndex("PupId")
+                        .IsUnique();
 
                     b.ToTable("Buyer");
-                });
-
-            modelBuilder.Entity("AdminPoodle.Models.Comment", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
-
-                    b.Property<string>("CommenterName")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<DateOnly?>("DateCreated")
-                        .HasColumnType("TEXT");
-
-                    b.Property<int?>("NewsId")
-                        .HasColumnType("INTEGER");
-
-                    b.Property<string>("Text")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("NewsId");
-
-                    b.ToTable("Comment");
                 });
 
             modelBuilder.Entity("AdminPoodle.Models.Interest", b =>
@@ -120,6 +94,9 @@ namespace AdminPoodle.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("AltText")
+                        .HasColumnType("TEXT");
+
                     b.Property<DateOnly?>("DateCreated")
                         .HasColumnType("TEXT");
 
@@ -146,6 +123,9 @@ namespace AdminPoodle.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("AltText")
+                        .HasColumnType("TEXT");
+
                     b.Property<bool>("Booked")
                         .HasColumnType("INTEGER");
 
@@ -158,6 +138,7 @@ namespace AdminPoodle.Data.Migrations
 
                     b.Property<string>("Title")
                         .IsRequired()
+                        .HasMaxLength(120)
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
@@ -364,19 +345,10 @@ namespace AdminPoodle.Data.Migrations
             modelBuilder.Entity("AdminPoodle.Models.Buyer", b =>
                 {
                     b.HasOne("AdminPoodle.Models.Pup", "Pup")
-                        .WithMany()
-                        .HasForeignKey("PupId");
+                        .WithOne("Buyer")
+                        .HasForeignKey("AdminPoodle.Models.Buyer", "PupId");
 
                     b.Navigation("Pup");
-                });
-
-            modelBuilder.Entity("AdminPoodle.Models.Comment", b =>
-                {
-                    b.HasOne("AdminPoodle.Models.News", "News")
-                        .WithMany()
-                        .HasForeignKey("NewsId");
-
-                    b.Navigation("News");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -428,6 +400,11 @@ namespace AdminPoodle.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("AdminPoodle.Models.Pup", b =>
+                {
+                    b.Navigation("Buyer");
                 });
 #pragma warning restore 612, 618
         }

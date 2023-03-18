@@ -1,12 +1,12 @@
 @model IEnumerable<AdminPoodle.Models.Interest>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Intresse";
 }
 
 <h1>Intresseanmälningar</h1>
 <p>
-    <a asp-action="Create">Skapa ny</a>
+        <a asp-action="Create"><img src="~/icons/add.png" class="icon" alt="knapp för att lägga till intresseanmälan"/> Lägg till intresseanmälan </a>
 </p>
 <table class="table">
     <thead>
@@ -19,9 +19,6 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Age)
-            </th>
-            <th>
-                Info:
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Email)
@@ -44,7 +41,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Age)
             </td>
- <td>
+ <!-- <td>
              @if (item.About.Length >= 50)
                 {
                     @item.About.Substring(0, 50)
@@ -53,7 +50,7 @@
                 {
                 @item.About
                 }
-            </td>
+            </td> -->
             <td>
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
@@ -61,9 +58,9 @@
                 @Html.DisplayFor(modelItem => item.DateCreated)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Ändra</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Detaljer</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Radera</a>
+ <a asp-action="Edit" asp-route-id="@item.Id"><img src="~/icons/change.png" class="icon" alt="knapp för redigering"/></a> 
+                <a asp-action="Details" asp-route-id="@item.Id"><img src="~/icons/file.png" class="icon" alt="knapp för att se detaljer"/></a> 
+                <a asp-action="Delete" asp-route-id="@item.Id"><img src="~/icons/erase.png" class="icon" alt="knapp för radering"/></a>
             </td>
         </tr>
 }

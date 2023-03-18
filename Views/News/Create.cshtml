@@ -1,5 +1,6 @@
 @model AdminPoodle.Models.News
 
+
 @{
     ViewData["Title"] = "Create";
 }
@@ -25,7 +26,7 @@
             <div class="form-outline mb-4">
                 <label class="form-label" asp-for="Post" class="control-label"></label>
                 <div>
-                <textarea asp-for="Post" class="form-control"></textarea>
+                <textarea asp-for="Post" class="form-control" ></textarea>
                 <span asp-validation-for="Post" class="text-danger"></span>
             </div></div><br>
 
@@ -36,38 +37,36 @@
                 <span asp-validation-for="ImageFile" class="text-danger"></span>
             </div><br>
 
+            <div class="form-outline mb-4">
+                <label class="form-label" asp-for="AltText" class="control-label"></label>
+                <div>
+                   
+                <input asp-for="AltText" class="form-control" />
+                <span asp-validation-for="AltText" class="text-danger" ></span>
+            </div> <br>
             <div class="form-group">
-                <input type="submit" value="Posta" class="btn btn-primary" />
+                <input type="submit" value="Posta" class="btn btn-success" />
             </div>
         </form>
     </div>
 </div>
 <br>
 <div>
-    <a asp-action="Index">Tillbaka</a>
+     <a asp-action="Index"><img src="~/icons/back.png" class="icon" alt="knapp för att gå tillbaka"/></a>
 </div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-
-         <script>
-           tinymce.init({
-               selector: 'textarea#Post',
-                   width: 700,
-                   sheight: 300,
-                   plugins: [
-      'advlist', 'autolink', 'link', 'image', 'lists', 'charmap', 'preview',
-       'anchor', 'pagebreak',
-      'searchreplace', 'wordcount', 'visualblocks', 'visualchars', 'code',
-      'fullscreen', 'insertdatetime',
-      'media', 'table', 'emoticons', 'template', 'help'
-    ],
-                   toolbar: 'undo redo | styles | bold italic | alignleft aligncenter alignright alignjustify | ' +
-'bullist numlist outdent indent | link image | print preview media fullscreen | ' +
-      'forecolor backcolor emoticons | help'
-           });
-       </script>
-
+ <script>
+        tinymce.init({
+            // Select the element(s) to add TinyMCE to using any valid CSS selector
+            selector: "#myTextarea",
+            plugins: "preview powerpaste casechange searchreplace autolink autosave save directionality advcode visualblocks visualchars fullscreen image link media mediaembed template codesample advtable table charmap pagebreak nonbreaking anchor advlist lists checklist wordcount tinymcespellchecker a11ychecker help formatpainter permanentpen pageembed linkchecker emoticons export",
+            height: '300px',
+            width: '500'
+        });
+        tinyMCE.init( {
+    forced_root_block: false, // Start tinyMCE without any paragraph tag
+} )
+    </script>
 }
-
-

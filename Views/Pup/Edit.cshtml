@@ -32,21 +32,28 @@
             <br>
             
             <div class="form-group">
-                
                 <label asp-for="ImageName" class="control-label"></label><br>
                  <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" asp-append-version="true" width="250px" height="200px"/><br><br>
                 <input asp-for="ImageName" class="form-control" />
                 <span asp-validation-for="ImageName" class="text-danger"></span>
+            </div> 
+            <br>
+            <div class="form-outline mb-4">
+                <label class="form-label" asp-for="AltText" class="control-label"></label>
+                <div>
+                <input asp-for="AltText" class="form-control" />
+                <span asp-validation-for="AltText" class="text-danger"></span>
             </div> <br>
+            
             <div class="form-group">
-                <input type="submit" value="Spara" class="btn btn-primary" />
+                <input type="submit" value="Spara" class="btn btn-success" />
             </div>
         </form>
     </div>
 </div>
  <br>
 <div>
-    <a asp-action="Index">Tillbaka</a>
+     <a asp-action="Index"><img src="~/icons/back.png" class="icon" alt="knapp för att gå tillbaka"/></a>
 </div>
 
 @section Scripts {

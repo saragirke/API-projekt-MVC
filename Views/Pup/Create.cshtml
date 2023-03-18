@@ -4,9 +4,8 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Lägg till valp</h1>
 
-<h4>Pup</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -16,30 +15,37 @@
                 <label asp-for="Title" class="control-label"></label>
                 <input asp-for="Title" class="form-control" />
                 <span asp-validation-for="Title" class="text-danger"></span>
-            </div><br>
-<div class="form-group">
+            </div>
+            <br>
+            <div class="form-group">
                 <label asp-for="Gender" class="control-label"></label> <br />
-                <!--<input asp-for="Adopted" class="form-control" /> -->
-                @Html.RadioButtonFor(m => m.Gender,"Hona") Hona <br>
-                @Html.RadioButtonFor(m => m.Gender,"Hane") Hane
-
+                    @Html.RadioButtonFor(m => m.Gender,"Hona") Hona <br>
+                    @Html.RadioButtonFor(m => m.Gender,"Hane") Hane
                 <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
             <br>
-
-            @Html.DisplayNameFor(model => model.Booked)
-            <div class="form-group form-check">
-                <label class="form-check-label">
+             @Html.DisplayNameFor(model => model.Booked)
+                <div class="form-group form-check">
+                    <label class="form-check-label">
                     <input class="form-check-input" asp-for="Booked" /> 
                 </label>
-            </div><br>
+                </div>
+            <br>
             <div class="form-group">
                 <label asp-for="ImageFile" class="control-label"></label>
                 <input asp-for="ImageFile" accept="image/*" />
                 <span asp-validation-for="ImageFile" class="text-danger"></span>
-            </div><br>
+            </div>
+            <br>
+            <div class="form-outline mb-4">
+                <label class="form-label" asp-for="AltText" class="control-label"></label>
+                <div>
+                <input asp-for="AltText" class="form-control" />
+                <span asp-validation-for="AltText" class="text-danger"></span>
+            </div> 
+            <br>
             <div class="form-group"><br>
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Lägg till" class="btn btn-success" />
             </div>
         </form>
     </div>
@@ -47,9 +53,11 @@
 
 <div>
     <br>
-    <a asp-action="Index">Back to List</a>
+   <a asp-action="Index"><img src="~/icons/back.png" class="icon" alt="knapp för att gå tillbaka"/></a>
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

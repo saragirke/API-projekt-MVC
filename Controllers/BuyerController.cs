@@ -88,7 +88,7 @@ namespace AdminPoodle.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["PupId"] = new SelectList(_context.Pup, "Id", "Gender", buyer.PupId);
+            ViewData["PupId"] = new SelectList(_context.Pup, "Id", "Title", buyer.PupId);
             return View(buyer);
         }
 
@@ -105,7 +105,25 @@ namespace AdminPoodle.Controllers
             {
                 return NotFound();
             }
-            ViewData["PupId"] = new SelectList(_context.Pup, "Id", "Gender", buyer.PupId);
+
+          
+            //Hämta valpar som inte redan är tingade
+            var pupContext = _context.Pup
+            .Where(s => s.Booked == false)
+            .Select(s => s)
+            .ToList();
+
+              var puppy =_context.Pup
+              .Where(s => s.Id == buyer.PupId)
+              .Select(s => s)
+              .FirstOrDefault();
+
+              if(puppy != null)
+              {
+                pupContext.Add(puppy);
+              }
+
+            ViewData["PupId"] = new SelectList(pupContext, "Id", "Title", buyer.PupId);
             return View(buyer);
         }
 
@@ -159,7 +177,7 @@ namespace AdminPoodle.Controllers
                 .FirstOrDefaultAsync(m => m.Id == id);
 
 
-                // Hämtar posten med samma ID som angivet
+                // Hämtar valp med samma ID
                 var getPup =
                    from s in _context.Pup
                    where s.Id == buyer.PupId

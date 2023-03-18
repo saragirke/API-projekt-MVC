@@ -4,9 +4,9 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<h1>Redigera</h1>
 
-<h4>Buyer</h4>
+<h4>Valpköpare</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -37,16 +37,16 @@
                 <label asp-for="PupId" class="control-label"></label>
                 <select asp-for="PupId" class="form-control" asp-items="ViewBag.PupId"></select>
                 <span asp-validation-for="PupId" class="text-danger"></span>
-            </div>
+            </div><br>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Spara" class="btn btn-success" />
             </div>
         </form>
     </div>
 </div>
-
+<br>
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index"><img src="~/icons/back.png" class="icon" alt="knapp för att gå tillbaka"/></a>
 </div>
 
 @section Scripts {

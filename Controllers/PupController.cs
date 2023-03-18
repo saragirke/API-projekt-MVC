@@ -67,7 +67,7 @@ namespace AdminPoodle.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Gender,Booked,ImageFile")] Pup pup)
+        public async Task<IActionResult> Create([Bind("Id,Title,Gender,Booked,ImageFile, AltText")] Pup pup)
         {
             if (ModelState.IsValid)
             {
@@ -126,7 +126,7 @@ namespace AdminPoodle.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Gender,Booked,ImageName")] Pup pup)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Gender,Booked, AltText, ImageName")] Pup pup)
         {
             if (id != pup.Id)
             {
@@ -183,9 +183,9 @@ namespace AdminPoodle.Controllers
             {
                 return Problem("Entity set 'ApplicationDbContext.Pup'  is null.");
             }
-            var pup = await _context.Pup.FindAsync(id);
-
-            
+            //Inkluderar Buyer för radering
+            var pup = await _context.Pup.Include(s => s.Buyer)
+            .FirstOrDefaultAsync(m => m.Id == id);
             if (pup != null)
             {
                 _context.Pup.Remove(pup);

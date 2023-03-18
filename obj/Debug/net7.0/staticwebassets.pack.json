@@ -13,12 +13,76 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\add.png",
+      "PackagePath": "staticwebassets\\icons\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\andra.png",
+      "PackagePath": "staticwebassets\\icons\\andra.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\back.png",
+      "PackagePath": "staticwebassets\\icons\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\change.png",
+      "PackagePath": "staticwebassets\\icons\\change.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\edit.png",
+      "PackagePath": "staticwebassets\\icons\\edit.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\erase.png",
+      "PackagePath": "staticwebassets\\icons\\erase.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\favico.ico",
+      "PackagePath": "staticwebassets\\icons\\favico.ico"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\file.png",
+      "PackagePath": "staticwebassets\\icons\\file.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\view.png",
+      "PackagePath": "staticwebassets\\icons\\view.png"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload1233146897.jpg",
       "PackagePath": "staticwebassets\\imageupload1233146897.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload1233319019.jpg",
+      "PackagePath": "staticwebassets\\imageupload1233319019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload1234736632.jpg",
+      "PackagePath": "staticwebassets\\imageupload1234736632.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload4235034607.jpg",
+      "PackagePath": "staticwebassets\\imageupload4235034607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload4235122967.jpg",
+      "PackagePath": "staticwebassets\\imageupload4235122967.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload5230400090.jpg",
+      "PackagePath": "staticwebassets\\imageupload5230400090.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload8230434198.jpg",
+      "PackagePath": "staticwebassets\\imageupload8230434198.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload9230424349.jpg",
       "PackagePath": "staticwebassets\\imageupload9230424349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload9233415265.jpg",
+      "PackagePath": "staticwebassets\\imageupload9233415265.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadWIN_20220422_18_04_56_Pro232847098.jpg",
@@ -45,12 +109,32 @@
       "PackagePath": "staticwebassets\\imageupload\\1233146897.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\1233319019.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\1233319019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\1234736632.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\1234736632.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\3232324519.jpg",
       "PackagePath": "staticwebassets\\imageupload\\3232324519.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\4234236579.jpg",
       "PackagePath": "staticwebassets\\imageupload\\4234236579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\4235034607.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\4235034607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\4235122967.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\4235122967.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\5230400090.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\5230400090.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\5230852467.jpg",
@@ -67,6 +151,10 @@
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\8230138306.jpg",
       "PackagePath": "staticwebassets\\imageupload\\8230138306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\8230434198.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\8230434198.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\8231409926.jpg",
@@ -89,6 +177,10 @@
       "PackagePath": "staticwebassets\\imageupload\\9232343076.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\9233415265.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\9233415265.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\WIN_20220422_18_04_56_Pro232847098.jpg",
       "PackagePath": "staticwebassets\\imageupload\\WIN_20220422_18_04_56_Pro232847098.jpg"
     },
@@ -103,6 +195,10 @@
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\WIN_20220422_18_04_56_Pro234638631.jpg",
       "PackagePath": "staticwebassets\\imageupload\\WIN_20220422_18_04_56_Pro234638631.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\alison-pang-QgzaBKindHI-unsplash233341130.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\alison-pang-QgzaBKindHI-unsplash233341130.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\april-walker-nNUUpg4nutM-unsplash231228888.jpg",
@@ -125,12 +221,48 @@
       "PackagePath": "staticwebassets\\imageupload\\april-walker-nNUUpg4nutM-unsplash234453924.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\arjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\arjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\casey-chae-JIPHt9TnoRE-unsplash232225225.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\casey-chae-JIPHt9TnoRE-unsplash232225225.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\dog230337611.jpg",
       "PackagePath": "staticwebassets\\imageupload\\dog230337611.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\dog235205452.jpg",
       "PackagePath": "staticwebassets\\imageupload\\dog235205452.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234323437.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234323437.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234331592.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234331592.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234341030.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234341030.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234348976.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234348976.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234351731.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234351731.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\jamie-street-m4BkRRprvP0-unsplash233659750.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\jamie-street-m4BkRRprvP0-unsplash233659750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\jarad-lee-sxn9LiahfMM-unsplash233526672.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\jarad-lee-sxn9LiahfMM-unsplash233526672.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash230438348.jpg",
@@ -153,6 +285,26 @@
       "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash231825416.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash234009026.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash234009026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\pic2232046272.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\pic2232046272.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\pic2233024016.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\pic2233024016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\pic2233702508.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\pic2233702508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\picpic233308382.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\picpic233308382.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle230212228.jpg",
       "PackagePath": "staticwebassets\\imageupload\\poddle230212228.jpg"
     },
@@ -167,6 +319,10 @@
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle232613548.jpg",
       "PackagePath": "staticwebassets\\imageupload\\poddle232613548.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle234408738.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\poddle234408738.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle235929287.jpg",
@@ -209,8 +365,28 @@
       "PackagePath": "staticwebassets\\imageupload\\ty235416091.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadalison-pang-QgzaBKindHI-unsplash233341130.jpg",
+      "PackagePath": "staticwebassets\\imageuploadalison-pang-QgzaBKindHI-unsplash233341130.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadarjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg",
+      "PackagePath": "staticwebassets\\imageuploadarjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadcasey-chae-JIPHt9TnoRE-unsplash232225225.jpg",
+      "PackagePath": "staticwebassets\\imageuploadcasey-chae-JIPHt9TnoRE-unsplash232225225.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploaddog230337611.jpg",
       "PackagePath": "staticwebassets\\imageuploaddog230337611.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadjamie-street-m4BkRRprvP0-unsplash233659750.jpg",
+      "PackagePath": "staticwebassets\\imageuploadjamie-street-m4BkRRprvP0-unsplash233659750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadjarad-lee-sxn9LiahfMM-unsplash233526672.jpg",
+      "PackagePath": "staticwebassets\\imageuploadjarad-lee-sxn9LiahfMM-unsplash233526672.jpg"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash230438348.jpg",
@@ -221,6 +397,26 @@
       "PackagePath": "staticwebassets\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash230534136.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash234009026.jpg",
+      "PackagePath": "staticwebassets\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash234009026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpic2232046272.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpic2232046272.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpic2233024016.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpic2233024016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpic2233702508.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpic2233702508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpicpic233308382.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpicpic233308382.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpoddle230212228.jpg",
       "PackagePath": "staticwebassets\\imageuploadpoddle230212228.jpg"
     },
@@ -229,256 +425,12 @@
       "PackagePath": "staticwebassets\\imageuploadpoddle232613548.jpg"
     },
     {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpoddle234408738.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpoddle234408738.jpg"
+    },
+    {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\icons\\default\\icons.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\icons\\default\\icons.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\langs\\README.md",
-      "PackagePath": "staticwebassets\\js\\tinymce\\langs\\README.md"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\license.txt",
-      "PackagePath": "staticwebassets\\js\\tinymce\\license.txt"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\models\\dom\\model.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\models\\dom\\model.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\advlist\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\advlist\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\anchor\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\anchor\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\autolink\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\autolink\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\autoresize\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\autoresize\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\autosave\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\autosave\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\charmap\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\charmap\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\code\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\code\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\codesample\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\codesample\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\directionality\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\directionality\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\emoticons\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\help\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\help\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\image\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\image\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\importcss\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\importcss\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\link\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\link\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\lists\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\lists\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\media\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\media\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\preview\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\preview\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\quickbars\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\quickbars\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\save\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\save\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\table\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\table\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\template\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\template\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\visualchars\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\visualchars\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\plugins\\wordcount\\plugin.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\wordcount\\plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\content\\dark\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\dark\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\content\\default\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\default\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\content\\document\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\document\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\content\\writer\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\writer\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
-      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\themes\\silver\\theme.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\themes\\silver\\theme.min.js"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\tinymce.d.ts",
-      "PackagePath": "staticwebassets\\js\\tinymce\\tinymce.d.ts"
-    },
-    {
-      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\tinymce\\tinymce.min.js",
-      "PackagePath": "staticwebassets\\js\\tinymce\\tinymce.min.js"
     },
     {
       "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\LICENSE",

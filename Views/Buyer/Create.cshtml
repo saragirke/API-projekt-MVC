@@ -37,14 +37,14 @@
                 <select asp-for="PupId" class ="form-control" asp-items="ViewBag.PupId"></select>
             </div><br>
             <div class="form-group">
-                <input type="submit" value="Lägg till" class="btn btn-primary" />
+                <input type="submit" value="Lägg till" class="btn btn-success" />
             </div><br>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Tillbaka till lista</a>
+   <a asp-action="Index"><img src="~/icons/back.png" class="icon" alt="knapp för att gå tillbaka"/></a>
 </div>
 
 @section Scripts {

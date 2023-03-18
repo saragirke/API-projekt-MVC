@@ -21,16 +21,20 @@ public class Buyer {
     [Display (Name = "E-mail:")]
     [Required(ErrorMessage = "Obligatoriskt fält")]
     [EmailAddress(ErrorMessage = "Felaktig e-postadress")]
+    [MaxLength(50)]  
     public string? Email {get; set;}
 
 
     [Display (Name = "Telefonnummer:")]
     [Required(ErrorMessage = "Obligatoriskt fält")]
+    [DataType(DataType.PhoneNumber)]
     [RegularExpression("([0-9]+)", ErrorMessage = "Endast siffror!")]
-    public int? Number { get; set; }
+    public string? Number { get; set; }
 
-        public int? PupId {get ; set;}
-        public Pup? Pup {get; set;}
+
+    [Display (Name = "Valp:")]        
+    public int? PupId {get ; set;}
+    public Pup? Pup {get; set;}
 
 }
 }

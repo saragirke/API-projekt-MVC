@@ -67,7 +67,7 @@ namespace AdminPoodle.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Post,ImageFile,DateCreated")] News news)
+        public async Task<IActionResult> Create([Bind("Id,Title,Post,ImageFile, AltText, DateCreated")] News news)
         {
             if (ModelState.IsValid)
             {
@@ -80,7 +80,6 @@ namespace AdminPoodle.Controllers
 
                     //Plockar bort mellanslag i filnam + lägger till timestamp
                     news.ImageName = fileName = fileName.Replace(" ", String.Empty) + DateTime.Now.ToString("yymmssfff") + extension;
-
                     string path = Path.Combine(wwwRootPath + "/imageupload", fileName);
 
                     //Lagra Fil
@@ -89,7 +88,7 @@ namespace AdminPoodle.Controllers
                         await news.ImageFile.CopyToAsync(fileStream);
                     }
 
-                    //Funktino för att ange bildens storlek
+                    //Funktion för att ange bildens storlek
                     createImageFile(fileName);
 
                 }
@@ -127,7 +126,7 @@ namespace AdminPoodle.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Post,ImageName,DateCreated")] News news)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Post,ImageName,AltText,DateCreated")] News news)
         {
             if (id != news.Id)
             {
@@ -199,7 +198,7 @@ namespace AdminPoodle.Controllers
           return (_context.News?.Any(e => e.Id == id)).GetValueOrDefault();
         }
 
-        //Funktion för biler
+        //Funktion för bilder
          
          private void createImageFile(string fileName) {
 

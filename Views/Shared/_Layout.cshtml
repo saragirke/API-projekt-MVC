@@ -6,18 +6,20 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
+    <link rel="icon" href="~/icons/favico.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] | Pudelklubben</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AdminPoodle.styles.css" asp-append-version="true" />
-    <script src="~/js/tinymce/tinymce.min.js" referrerpolicy="origin"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Quicksand:wght@500&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Pudelklubben - Admin</a>
+             <!--   <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Hem</a> -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -25,8 +27,8 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Start</a>
-                        </li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Hem</a>
+                        </li> 
                         @if (SignInManager.IsSignedIn(User))
 {
                         <li class="nav-item">
@@ -36,10 +38,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Pup" asp-action="Index">Valpar</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Interest" asp-action="Index">Intresseanmälningar</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Interest" asp-action="Index">Intresse</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Buyer" asp-action="Index">Valpköpare</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Buyer" asp-action="Index">Köpare</a>
                         </li> }
                     </ul>
                     <partial name="_LoginPartial" />
@@ -55,7 +57,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - AdminPoodle - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2023 - Pudelklubben
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

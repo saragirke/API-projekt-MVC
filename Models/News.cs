@@ -21,7 +21,11 @@ public class News {
     [Display (Name = "Bild:")]
     public string? ImageName {get; set;}
 
+    
+    [Display (Name = "Alt-Text till bild:")]
+    public string? AltText{get; set;}
 
+    [Display (Name = "Datum:")]
     [DataType(DataType.Date)]
     public DateOnly? DateCreated {get; init;} = DateOnly.FromDateTime(DateTime.Now); //Endast Datum
 

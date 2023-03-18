@@ -8,6 +8,7 @@ public class Pup {
     public int Id {get; set;}
 
     [Display (Name = "Namn:")]
+    [MaxLength(120, ErrorMessage = "Max 120 tecken")]
     [Required]
     public string? Title {get; set;}
 
@@ -24,9 +25,13 @@ public class Pup {
     [Display (Name = "Bild:")]
     public string? ImageName {get; set;}
 
+    [Display (Name = "Alt-Text till bild:")]
+    public string? AltText{get; set;}
+
     [NotMapped] //När en migration görs kommer detta inte skapas i databasen, endast gränssnittet
     [Display(Name = "Bild")]
     public IFormFile? ImageFile {get; set;}
+    public Buyer? Buyer {get; set;}
 
 }
 }
