@@ -1,7 +1,7 @@
 @model AdminPoodle.Models.Pup
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Redigera | Valp";
 }
 
 <h1>Redigera</h1>
@@ -33,14 +33,13 @@
             
             <div class="form-group">
                 <label asp-for="ImageName" class="control-label"></label><br>
-                 <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" asp-append-version="true" width="250px" height="200px"/><br><br>
+                 <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" alt="uppladdad bild" asp-append-version="true" width="250" height="200"/><br><br>
                 <input asp-for="ImageName" class="form-control" />
                 <span asp-validation-for="ImageName" class="text-danger"></span>
             </div> 
             <br>
             <div class="form-outline mb-4">
-                <label class="form-label" asp-for="AltText" class="control-label"></label>
-                <div>
+                <label asp-for="AltText" class="control-label"></label>
                 <input asp-for="AltText" class="form-control" />
                 <span asp-validation-for="AltText" class="text-danger"></span>
             </div> <br>

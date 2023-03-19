@@ -1,7 +1,7 @@
 @model AdminPoodle.Models.News
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Redigera Nyhet";
 }
 
 <h1>Redigera</h1>
@@ -13,30 +13,31 @@
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
+
             <div class="form-group">
-                <label asp-for="Title" class="control-label"></label>
+                <label asp-for="Title" ></label>
                 <input asp-for="Title" class="form-control" />
                 <span asp-validation-for="Title" class="text-danger"></span>
-            </div><br>
-            <div class="form-outline mb-4">
-                <label class="form-label" asp-for="Post" class="control-label"></label>
-                <div>
-                <textarea asp-for="Post" class="form-control" ></textarea>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="Post"></label>
+                <textarea rows="10" asp-for="Post" class="form-control" ></textarea>
                 <span asp-validation-for="Post" class="text-danger"></span>
-            </div></div><br>
+            </div><br>
         <!--    <div class="form-group">
                 <label asp-for="DateCreated" class="control-label"></label>
                 <input asp-for="DateCreated" class="form-control" />
                 <span asp-validation-for="DateCreated" class="text-danger"></span>
             </div><br> -->
             <div class="form-group">
-                <label asp-for="ImageName" class="control-label"></label>
+                <label asp-for="ImageName"></label><br>
+                 <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" alt="uppladdad bild" asp-append-version="true" width="250" height="200"/><br><br>
                 <input asp-for="ImageName" class="form-control" />
                 <span asp-validation-for="ImageName" class="text-danger"></span>
             </div><br>
             <div class="form-outline mb-4">
-                <label class="form-label" asp-for="AltText" class="control-label"></label>
-                <div>
+                <label class="form-label" asp-for="AltText" ></label>
                 <input asp-for="AltText" class="form-control" />
                 <span asp-validation-for="AltText" class="text-danger"></span>
             </div> <br>
@@ -45,9 +46,10 @@
                 <input type="submit" value="Spara" class="btn btn-success" />
             </div>
         </form>
+        <br>
     </div>
 </div>
-
+<br>
 <div>
     <a asp-action="Index"><img src="~/icons/back.png" class="icon" alt="knapp för att gå tillbaka"/></a>
 </div>

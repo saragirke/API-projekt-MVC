@@ -2,7 +2,7 @@
 
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Skapa nyhet";
 }
 
 <h1>Nytt inlägg</h1>
@@ -13,35 +13,29 @@
         <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
-
-            <div class="form-outline mb-4">
-                <label class="form-label" asp-for="Title" class="control-label"></label>
-                <div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
                 <input asp-for="Title" class="form-control" />
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
-            </div>
-
-
-            <div class="form-outline mb-4">
-                <label class="form-label" asp-for="Post" class="control-label"></label>
-                <div>
-                <textarea asp-for="Post" class="form-control" ></textarea>
-                <span asp-validation-for="Post" class="text-danger"></span>
-            </div></div><br>
 
 
             <div class="form-group">
-                <label asp-for="ImageFile" class="control-label"></label>
-                <input asp-for="ImageFile" accept="image/*" />
+                <label asp-for="Post" class="control-label"></label>
+                <textarea rows="10"  asp-for="Post" class="form-control" ></textarea>
+                <span asp-validation-for="Post" class="text-danger"></span>
+            </div><br>
+
+
+            <div class="form-group">
+                <label asp-for="ImageFile"class="control-label"></label>
+                <input asp-for="ImageFile" accept="image/*" class="form-control" />
                 <span asp-validation-for="ImageFile" class="text-danger"></span>
             </div><br>
 
-            <div class="form-outline mb-4">
-                <label class="form-label" asp-for="AltText" class="control-label"></label>
-                <div>
-                   
-                <input asp-for="AltText" class="form-control" />
+            <div class="form-group">
+                <label asp-for="AltText" class="control-label" ></label>
+                <input asp-for="AltText" class="form-control"  />
                 <span asp-validation-for="AltText" class="text-danger" ></span>
             </div> <br>
             <div class="form-group">
@@ -58,15 +52,6 @@
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
  <script>
-        tinymce.init({
-            // Select the element(s) to add TinyMCE to using any valid CSS selector
-            selector: "#myTextarea",
-            plugins: "preview powerpaste casechange searchreplace autolink autosave save directionality advcode visualblocks visualchars fullscreen image link media mediaembed template codesample advtable table charmap pagebreak nonbreaking anchor advlist lists checklist wordcount tinymcespellchecker a11ychecker help formatpainter permanentpen pageembed linkchecker emoticons export",
-            height: '300px',
-            width: '500'
-        });
-        tinyMCE.init( {
-    forced_root_block: false, // Start tinyMCE without any paragraph tag
-} )
+
     </script>
 }

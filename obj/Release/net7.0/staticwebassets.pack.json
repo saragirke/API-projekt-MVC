@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\AdminPoodle.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminPoodle.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\add.png",
+      "PackagePath": "staticwebassets\\icons\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\andra.png",
+      "PackagePath": "staticwebassets\\icons\\andra.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\back.png",
+      "PackagePath": "staticwebassets\\icons\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\change.png",
+      "PackagePath": "staticwebassets\\icons\\change.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\edit.png",
+      "PackagePath": "staticwebassets\\icons\\edit.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\erase.png",
+      "PackagePath": "staticwebassets\\icons\\erase.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\favico.ico",
+      "PackagePath": "staticwebassets\\icons\\favico.ico"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\file.png",
+      "PackagePath": "staticwebassets\\icons\\file.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\view.png",
+      "PackagePath": "staticwebassets\\icons\\view.png"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload1233146897.jpg",
+      "PackagePath": "staticwebassets\\imageupload1233146897.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload1233319019.jpg",
+      "PackagePath": "staticwebassets\\imageupload1233319019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload1234736632.jpg",
+      "PackagePath": "staticwebassets\\imageupload1234736632.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload4235034607.jpg",
+      "PackagePath": "staticwebassets\\imageupload4235034607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload4235122967.jpg",
+      "PackagePath": "staticwebassets\\imageupload4235122967.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload5230400090.jpg",
+      "PackagePath": "staticwebassets\\imageupload5230400090.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload8230434198.jpg",
+      "PackagePath": "staticwebassets\\imageupload8230434198.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload9230424349.jpg",
+      "PackagePath": "staticwebassets\\imageupload9230424349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload9233415265.jpg",
+      "PackagePath": "staticwebassets\\imageupload9233415265.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadWIN_20220422_18_04_56_Pro232847098.jpg",
+      "PackagePath": "staticwebassets\\imageuploadWIN_20220422_18_04_56_Pro232847098.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadWIN_20220422_18_04_56_Pro233325040.jpg",
+      "PackagePath": "staticwebassets\\imageuploadWIN_20220422_18_04_56_Pro233325040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadWIN_20220422_18_04_56_Pro233452444.jpg",
+      "PackagePath": "staticwebassets\\imageuploadWIN_20220422_18_04_56_Pro233452444.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadWIN_20220422_18_04_56_Pro234638631.jpg",
+      "PackagePath": "staticwebassets\\imageuploadWIN_20220422_18_04_56_Pro234638631.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\1230542909.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\1230542909.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\1233146897.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\1233146897.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\1233319019.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\1233319019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\1234736632.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\1234736632.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\3232324519.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\3232324519.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\4234236579.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\4234236579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\4235034607.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\4235034607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\4235122967.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\4235122967.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\5230400090.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\5230400090.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\5230852467.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\5230852467.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\7232034828.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\7232034828.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\7234343511.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\7234343511.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\8230138306.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\8230138306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\8230434198.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\8230434198.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\8231409926.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\8231409926.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\9230229926.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\9230229926.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\9230424349.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\9230424349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\9232122111.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\9232122111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\9232343076.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\9232343076.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\9233415265.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\9233415265.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\WIN_20220422_18_04_56_Pro232847098.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\WIN_20220422_18_04_56_Pro232847098.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\WIN_20220422_18_04_56_Pro233325040.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\WIN_20220422_18_04_56_Pro233325040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\WIN_20220422_18_04_56_Pro233452444.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\WIN_20220422_18_04_56_Pro233452444.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\WIN_20220422_18_04_56_Pro234638631.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\WIN_20220422_18_04_56_Pro234638631.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\alison-pang-QgzaBKindHI-unsplash233341130.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\alison-pang-QgzaBKindHI-unsplash233341130.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\alison-pang-W8upZ64Lsz4-unsplash234025026.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\alison-pang-W8upZ64Lsz4-unsplash234025026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\april-walker-nNUUpg4nutM-unsplash231228888.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\april-walker-nNUUpg4nutM-unsplash231228888.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\april-walker-nNUUpg4nutM-unsplash232504426.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\april-walker-nNUUpg4nutM-unsplash232504426.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\april-walker-nNUUpg4nutM-unsplash233630653.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\april-walker-nNUUpg4nutM-unsplash233630653.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\april-walker-nNUUpg4nutM-unsplash234425621.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\april-walker-nNUUpg4nutM-unsplash234425621.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\april-walker-nNUUpg4nutM-unsplash234453924.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\april-walker-nNUUpg4nutM-unsplash234453924.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\arjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\arjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\casey-chae-JIPHt9TnoRE-unsplash232225225.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\casey-chae-JIPHt9TnoRE-unsplash232225225.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\dog230337611.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\dog230337611.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\dog235205452.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\dog235205452.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234323437.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234323437.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234331592.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234331592.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234341030.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234341030.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234348976.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234348976.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\hundwebp234351731.webp",
+      "PackagePath": "staticwebassets\\imageupload\\hundwebp234351731.webp"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\jamie-street-m4BkRRprvP0-unsplash233659750.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\jamie-street-m4BkRRprvP0-unsplash233659750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\jarad-lee-sxn9LiahfMM-unsplash233526672.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\jarad-lee-sxn9LiahfMM-unsplash233526672.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash230438348.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash230438348.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash230534136.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash230534136.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash230602204.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash230602204.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash231318842.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash231318842.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash231825416.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash231825416.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash234009026.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\mia-anderson-hVRoKfEDYDA-unsplash234009026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\pic2232046272.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\pic2232046272.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\pic2233024016.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\pic2233024016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\pic2233702508.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\pic2233702508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\picpic233308382.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\picpic233308382.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle230212228.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\poddle230212228.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle230648379.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\poddle230648379.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle231633112.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\poddle231633112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle232613548.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\poddle232613548.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle234408738.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\poddle234408738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\poddle235929287.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\poddle235929287.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\small235541210.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\small235541210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\steven-van-elk-1OnbCf7AOdY-unsplash232324230.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\steven-van-elk-1OnbCf7AOdY-unsplash232324230.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\steven-van-elk-1OnbCf7AOdY-unsplash233729307.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\steven-van-elk-1OnbCf7AOdY-unsplash233729307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\tra-tran-7dyBEQdAYdA-unsplash232220116.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\tra-tran-7dyBEQdAYdA-unsplash232220116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\tra-tran-7dyBEQdAYdA-unsplash232423871.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\tra-tran-7dyBEQdAYdA-unsplash232423871.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\tuomas-harkonen-9Joi1JR6jks-unsplash(1)230128406.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\tuomas-harkonen-9Joi1JR6jks-unsplash(1)230128406.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\tuomas-harkonen-9Joi1JR6jks-unsplash231135096.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\tuomas-harkonen-9Joi1JR6jks-unsplash231135096.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\tuomas-harkonen-9Joi1JR6jks-unsplash231533715.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\tuomas-harkonen-9Joi1JR6jks-unsplash231533715.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\ty235416091.jpg",
+      "PackagePath": "staticwebassets\\imageupload\\ty235416091.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadalison-pang-QgzaBKindHI-unsplash233341130.jpg",
+      "PackagePath": "staticwebassets\\imageuploadalison-pang-QgzaBKindHI-unsplash233341130.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadalison-pang-W8upZ64Lsz4-unsplash234025026.jpg",
+      "PackagePath": "staticwebassets\\imageuploadalison-pang-W8upZ64Lsz4-unsplash234025026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadarjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg",
+      "PackagePath": "staticwebassets\\imageuploadarjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadcasey-chae-JIPHt9TnoRE-unsplash232225225.jpg",
+      "PackagePath": "staticwebassets\\imageuploadcasey-chae-JIPHt9TnoRE-unsplash232225225.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploaddog230337611.jpg",
+      "PackagePath": "staticwebassets\\imageuploaddog230337611.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadjamie-street-m4BkRRprvP0-unsplash233659750.jpg",
+      "PackagePath": "staticwebassets\\imageuploadjamie-street-m4BkRRprvP0-unsplash233659750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadjarad-lee-sxn9LiahfMM-unsplash233526672.jpg",
+      "PackagePath": "staticwebassets\\imageuploadjarad-lee-sxn9LiahfMM-unsplash233526672.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash230438348.jpg",
+      "PackagePath": "staticwebassets\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash230438348.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash230534136.jpg",
+      "PackagePath": "staticwebassets\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash230534136.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash234009026.jpg",
+      "PackagePath": "staticwebassets\\imageuploadmia-anderson-hVRoKfEDYDA-unsplash234009026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpic2232046272.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpic2232046272.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpic2233024016.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpic2233024016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpic2233702508.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpic2233702508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpicpic233308382.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpicpic233308382.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpoddle230212228.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpoddle230212228.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpoddle232613548.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpoddle232613548.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadpoddle234408738.jpg",
+      "PackagePath": "staticwebassets\\imageuploadpoddle234408738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.AdminPoodle.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.AdminPoodle.props",
+      "PackagePath": "build\\AdminPoodle.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminPoodle.props",
+      "PackagePath": "buildMultiTargeting\\AdminPoodle.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.AdminPoodle.props",
+      "PackagePath": "buildTransitive\\AdminPoodle.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,12 +1,12 @@
 @model AdminPoodle.Models.Interest
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Skapa Intresseanmälan";
 }
 
-<h1>Create</h1>
+<h1>Lägg till</h1>
 
-<h4>Interest</h4>
+<h4>Intresseanmälan</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -16,35 +16,32 @@
                 <label asp-for="FirstName" class="control-label"></label>
                 <input asp-for="FirstName" class="form-control" />
                 <span asp-validation-for="FirstName" class="text-danger"></span>
-            </div>
+            </div><br>
             <div class="form-group">
                 <label asp-for="LastName" class="control-label"></label>
                 <input asp-for="LastName" class="form-control" />
                 <span asp-validation-for="LastName" class="text-danger"></span>
-            </div>
+            </div><br>
             <div class="form-group">
                 <label asp-for="Age" class="control-label"></label>
                 <input asp-for="Age" class="form-control" />
                 <span asp-validation-for="Age" class="text-danger"></span>
-            </div>
+            </div><br>
             <div class="form-group">
-                <label asp-for="About" class="control-label"></label>
+                <label>Info:</label>
                 <input asp-for="About" class="form-control" />
                 <span asp-validation-for="About" class="text-danger"></span>
-            </div>
+            </div><br>
             <div class="form-group">
                 <label asp-for="Email" class="control-label"></label>
                 <input asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>
-            </div>
+            </div><br>
+<br>
             <div class="form-group">
-                <label asp-for="DateCreated" class="control-label"></label>
-                <input asp-for="DateCreated" class="form-control" />
-                <span asp-validation-for="DateCreated" class="text-danger"></span>
+                <input type="submit" value="Lägg till" class="btn btn-success" />
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-success" />
-            </div>
+            <br>
         </form>
     </div>
 </div>

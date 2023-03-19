@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o1EwhKa7jdURdfQG+Pp+VpNRxQChAFHL7s7qztWv/UY=",
+  "Hash": "KJSc0eM9WIU7YhubekHRqZIco73XFkWau2Rzfy2U+zM=",
   "Source": "AdminPoodle",
   "BasePath": "_content/AdminPoodle",
   "Mode": "Default",
@@ -1207,6 +1207,23 @@
       "OriginalItemSpec": "wwwroot\\icons\\erase.png"
     },
     {
+      "Identity": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\favico.ico",
+      "SourceId": "AdminPoodle",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\",
+      "BasePath": "_content/AdminPoodle",
+      "RelativePath": "icons/favico.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favico.ico"
+    },
+    {
       "Identity": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\icons\\file.png",
       "SourceId": "AdminPoodle",
       "SourceType": "Discovered",
@@ -1596,6 +1613,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imageupload\\alison-pang-QgzaBKindHI-unsplash233341130.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\alison-pang-W8upZ64Lsz4-unsplash234025026.jpg",
+      "SourceId": "AdminPoodle",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\",
+      "BasePath": "_content/AdminPoodle",
+      "RelativePath": "imageupload/alison-pang-W8upZ64Lsz4-unsplash234025026.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imageupload\\alison-pang-W8upZ64Lsz4-unsplash234025026.jpg"
     },
     {
       "Identity": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageupload\\april-walker-nNUUpg4nutM-unsplash231228888.jpg",
@@ -2531,6 +2565,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imageuploadalison-pang-QgzaBKindHI-unsplash233341130.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadalison-pang-W8upZ64Lsz4-unsplash234025026.jpg",
+      "SourceId": "AdminPoodle",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\",
+      "BasePath": "_content/AdminPoodle",
+      "RelativePath": "imageuploadalison-pang-W8upZ64Lsz4-unsplash234025026.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imageuploadalison-pang-W8upZ64Lsz4-unsplash234025026.jpg"
     },
     {
       "Identity": "C:\\Users\\maxor\\AdminPoodle\\wwwroot\\imageuploadarjan-stalpers-8-sgismcDAQ-unsplash233308412.jpg",

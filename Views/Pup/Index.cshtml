@@ -41,7 +41,7 @@
             </td>
             <td>
 
-                <img decoding="async" src="@("~/imageupload/"+item.ImageName)" asp-append-version="true"  width="70px" height="45px"/>
+                <img decoding="async" src="@("~/imageupload/"+item.ImageName)" alt="Miniatyr av uppladdad bild" asp-append-version="true"  width="70" height="45"/>
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id"><img src="~/icons/change.png" class="icon" alt="knapp för redigering"/></a> 

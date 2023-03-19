@@ -204,7 +204,7 @@ namespace AdminPoodle.Controllers
 
             using(var img = Image.FromFile(Path.Combine(wwwRootPath + "/imageupload/" , fileName))) {
               
-               img.Scale(ImageWidth, ImageHeigth).SaveAs(Path.Combine(wwwRootPath + "/imageupload" + fileName));
+               img.Scale(ImageWidth, ImageHeigth).SaveAs(Path.Combine(wwwRootPath + "/imageupload" + fileName)); 
             } 
 
 

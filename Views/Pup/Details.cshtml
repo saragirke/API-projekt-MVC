@@ -1,7 +1,7 @@
 @model AdminPoodle.Models.Pup
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Detaljer | Valp";
 }
 
 <h1>Detaljer</h1>
@@ -32,7 +32,7 @@
             Uploaded Image
         </dt>
         <dd class="col-sm-10">
-            <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" asp-append-version="true"  width="250px" height="200px"/>
+            <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" alt="uppladdad bild" asp-append-version="true"  width="280" height="200"/>
         </dd>
                         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.AltText)

@@ -1,7 +1,7 @@
 @model AdminPoodle.Models.News
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Detaljer | Nyhet";
 }
 
 <h1>Detaljer</h1>
@@ -29,10 +29,10 @@
             @Html.DisplayFor(model => model.ImageName)
         </dd>
         <dt class="col-sm-2">
-            Uppladad bild
+            Uppladdad bild
         </dt>
         <dd class="col-sm-10">
-            <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" asp-append-version="true"  width="250px" height="200px"/>
+            <img decoding="async" src="@("~/imageupload/"+Model.ImageName)" alt="uppladdad bild" asp-append-version="true"  width="280" height="200"/>
         </dd>
 
                 <dt class = "col-sm-2">

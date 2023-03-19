@@ -1,13 +1,14 @@
 @model AdminPoodle.Models.Pup
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Lägg till Valp";
 }
 
 <h1>Lägg till valp</h1>
 
 <hr />
 <div class="row">
+    
     <div class="col-md-4">
         <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -21,6 +22,7 @@
                 <label asp-for="Gender" class="control-label"></label> <br />
                     @Html.RadioButtonFor(m => m.Gender,"Hona") Hona <br>
                     @Html.RadioButtonFor(m => m.Gender,"Hane") Hane
+                    
                 <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
             <br>
@@ -37,9 +39,8 @@
                 <span asp-validation-for="ImageFile" class="text-danger"></span>
             </div>
             <br>
-            <div class="form-outline mb-4">
-                <label class="form-label" asp-for="AltText" class="control-label"></label>
-                <div>
+            <div class="form-group">
+                <label asp-for="AltText" class="control-label"></label>
                 <input asp-for="AltText" class="form-control" />
                 <span asp-validation-for="AltText" class="text-danger"></span>
             </div> 
