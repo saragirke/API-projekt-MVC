@@ -13,7 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1225701439,
+        "HashCode": -1032980916,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -97,7 +97,7 @@
         }
       },
       {
-        "HashCode": 1382669334,
+        "HashCode": -1004717670,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -182,7 +182,7 @@
         }
       },
       {
-        "HashCode": 482345241,
+        "HashCode": -1499382966,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -215,7 +215,7 @@
         }
       },
       {
-        "HashCode": 1635082449,
+        "HashCode": -1010783140,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -249,7 +249,7 @@
         }
       },
       {
-        "HashCode": -1211093214,
+        "HashCode": 207030352,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -270,7 +270,7 @@
         }
       },
       {
-        "HashCode": -1503860625,
+        "HashCode": 1258621289,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -292,7 +292,7 @@
         }
       },
       {
-        "HashCode": -1562690601,
+        "HashCode": -1011815270,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -397,7 +397,7 @@
         }
       },
       {
-        "HashCode": 371016942,
+        "HashCode": 845921578,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -503,7 +503,7 @@
         }
       },
       {
-        "HashCode": 304571377,
+        "HashCode": 1688251100,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -536,7 +536,7 @@
         }
       },
       {
-        "HashCode": -1640018258,
+        "HashCode": 41158253,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -570,7 +570,7 @@
         }
       },
       {
-        "HashCode": -1687753660,
+        "HashCode": -903188076,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -603,7 +603,7 @@
         }
       },
       {
-        "HashCode": -2100775346,
+        "HashCode": 706454127,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -637,7 +637,7 @@
         }
       },
       {
-        "HashCode": -67738351,
+        "HashCode": -488320695,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -670,7 +670,7 @@
         }
       },
       {
-        "HashCode": 1255016382,
+        "HashCode": -979781991,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -704,7 +704,7 @@
         }
       },
       {
-        "HashCode": 95737641,
+        "HashCode": 1465265365,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -725,7 +725,7 @@
         }
       },
       {
-        "HashCode": 10911591,
+        "HashCode": -602092635,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -747,7 +747,7 @@
         }
       },
       {
-        "HashCode": 1758305339,
+        "HashCode": 363937257,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -778,7 +778,7 @@
         }
       },
       {
-        "HashCode": 1605144973,
+        "HashCode": 64781368,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -810,7 +810,7 @@
         }
       },
       {
-        "HashCode": 542119659,
+        "HashCode": 1902757866,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -831,7 +831,7 @@
         }
       },
       {
-        "HashCode": -212103289,
+        "HashCode": 650547795,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -853,7 +853,7 @@
         }
       },
       {
-        "HashCode": -935693993,
+        "HashCode": 1683089314,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -928,7 +928,7 @@
         }
       },
       {
-        "HashCode": -1224173749,
+        "HashCode": 1323554018,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1004,7 +1004,7 @@
         }
       },
       {
-        "HashCode": 1598367936,
+        "HashCode": -252093895,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1025,7 +1025,7 @@
         }
       },
       {
-        "HashCode": 122768570,
+        "HashCode": 652698627,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1047,7 +1047,7 @@
         }
       },
       {
-        "HashCode": 798515161,
+        "HashCode": 300714538,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1089,7 +1089,7 @@
         }
       },
       {
-        "HashCode": -1777858612,
+        "HashCode": -1688835113,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1132,7 +1132,7 @@
         }
       },
       {
-        "HashCode": 1224844967,
+        "HashCode": -195446853,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1174,7 +1174,7 @@
         }
       },
       {
-        "HashCode": -263932741,
+        "HashCode": -2098345226,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1217,7 +1217,7 @@
         }
       },
       {
-        "HashCode": -1971421894,
+        "HashCode": 817852472,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1238,7 +1238,7 @@
         }
       },
       {
-        "HashCode": -927046202,
+        "HashCode": -2142426378,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1260,7 +1260,7 @@
         }
       },
       {
-        "HashCode": 3765100,
+        "HashCode": 1032804252,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1302,7 +1302,7 @@
         }
       },
       {
-        "HashCode": 2007681552,
+        "HashCode": 1813112294,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1345,7 +1345,7 @@
         }
       },
       {
-        "HashCode": -50238407,
+        "HashCode": -1446034429,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1453,7 +1453,7 @@
         }
       },
       {
-        "HashCode": -743172044,
+        "HashCode": -350518676,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1562,7 +1562,7 @@
         }
       },
       {
-        "HashCode": 979327267,
+        "HashCode": -190943931,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1583,7 +1583,7 @@
         }
       },
       {
-        "HashCode": 288011220,
+        "HashCode": -414024340,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1605,7 +1605,7 @@
         }
       },
       {
-        "HashCode": 163921756,
+        "HashCode": 1103877745,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1638,7 +1638,7 @@
         }
       },
       {
-        "HashCode": 1823965198,
+        "HashCode": -61116507,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1672,7 +1672,7 @@
         }
       },
       {
-        "HashCode": -1439300359,
+        "HashCode": 1499014167,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1693,7 +1693,7 @@
         }
       },
       {
-        "HashCode": 2000273754,
+        "HashCode": 280063696,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1715,7 +1715,7 @@
         }
       },
       {
-        "HashCode": 1006359753,
+        "HashCode": 460249299,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1734,7 +1734,7 @@
         }
       },
       {
-        "HashCode": -1941844242,
+        "HashCode": 1867875801,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1754,7 +1754,7 @@
         }
       },
       {
-        "HashCode": 415866330,
+        "HashCode": 931711763,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1859,7 +1859,7 @@
         }
       },
       {
-        "HashCode": 475613150,
+        "HashCode": 1258312412,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1965,7 +1965,7 @@
         }
       },
       {
-        "HashCode": 197193662,
+        "HashCode": 2029473703,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1998,7 +1998,7 @@
         }
       },
       {
-        "HashCode": -1518789547,
+        "HashCode": 1643719467,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2032,7 +2032,7 @@
         }
       },
       {
-        "HashCode": 186407030,
+        "HashCode": 2115464017,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2104,7 +2104,7 @@
         }
       },
       {
-        "HashCode": 1288555356,
+        "HashCode": 1217083853,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2177,7 +2177,7 @@
         }
       },
       {
-        "HashCode": 931032403,
+        "HashCode": -762161483,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2285,7 +2285,7 @@
         }
       },
       {
-        "HashCode": 522905130,
+        "HashCode": 1182617648,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2394,7 +2394,7 @@
         }
       },
       {
-        "HashCode": 1777960585,
+        "HashCode": 687269626,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2436,7 +2436,7 @@
         }
       },
       {
-        "HashCode": -692408390,
+        "HashCode": 2125050278,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2479,7 +2479,7 @@
         }
       },
       {
-        "HashCode": 1781821738,
+        "HashCode": 1246033363,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2576,7 +2576,7 @@
         }
       },
       {
-        "HashCode": -925583936,
+        "HashCode": -91680963,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2674,7 +2674,7 @@
         }
       },
       {
-        "HashCode": 2124791204,
+        "HashCode": -718481445,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2738,7 +2738,7 @@
         }
       },
       {
-        "HashCode": -913458598,
+        "HashCode": 436431464,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2803,7 +2803,7 @@
         }
       },
       {
-        "HashCode": -814977831,
+        "HashCode": -500823048,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2911,7 +2911,7 @@
         }
       },
       {
-        "HashCode": -510133808,
+        "HashCode": -1084381007,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3020,7 +3020,7 @@
         }
       },
       {
-        "HashCode": 212027773,
+        "HashCode": -1158184727,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3041,7 +3041,7 @@
         }
       },
       {
-        "HashCode": 361401061,
+        "HashCode": 553573164,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3063,7 +3063,7 @@
         }
       },
       {
-        "HashCode": 880382508,
+        "HashCode": -105421957,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3161,7 +3161,7 @@
         }
       },
       {
-        "HashCode": -1749853811,
+        "HashCode": 1462289609,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3260,7 +3260,7 @@
         }
       },
       {
-        "HashCode": 1063827461,
+        "HashCode": -2039083238,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3281,7 +3281,7 @@
         }
       },
       {
-        "HashCode": -1399491799,
+        "HashCode": 1461051119,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3303,7 +3303,7 @@
         }
       },
       {
-        "HashCode": 1085180448,
+        "HashCode": -809378048,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3375,7 +3375,7 @@
         }
       },
       {
-        "HashCode": 1002277463,
+        "HashCode": -1305195716,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3448,7 +3448,7 @@
         }
       },
       {
-        "HashCode": 710116300,
+        "HashCode": 249897233,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3520,7 +3520,7 @@
         }
       },
       {
-        "HashCode": 96357290,
+        "HashCode": 1652530276,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3593,7 +3593,7 @@
         }
       },
       {
-        "HashCode": 947318687,
+        "HashCode": -1441408528,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3647,7 +3647,7 @@
         }
       },
       {
-        "HashCode": -1680741975,
+        "HashCode": -1639038368,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3702,7 +3702,7 @@
         }
       },
       {
-        "HashCode": -1197519829,
+        "HashCode": -358210055,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3743,7 +3743,7 @@
         }
       },
       {
-        "HashCode": -1871552179,
+        "HashCode": -980573512,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3785,7 +3785,7 @@
         }
       },
       {
-        "HashCode": -742407542,
+        "HashCode": 973482540,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3826,7 +3826,7 @@
         }
       },
       {
-        "HashCode": 646344024,
+        "HashCode": -688044127,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3868,7 +3868,7 @@
         }
       },
       {
-        "HashCode": -1529465658,
+        "HashCode": 1797009409,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3910,7 +3910,7 @@
         }
       },
       {
-        "HashCode": -796989377,
+        "HashCode": 115214428,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3953,7 +3953,7 @@
         }
       },
       {
-        "HashCode": 2131663538,
+        "HashCode": -799685251,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4016,7 +4016,7 @@
         }
       },
       {
-        "HashCode": -483261656,
+        "HashCode": -680552285,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4080,7 +4080,7 @@
         }
       },
       {
-        "HashCode": -1283982625,
+        "HashCode": 1767240394,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4101,7 +4101,7 @@
         }
       },
       {
-        "HashCode": -48234797,
+        "HashCode": -128643301,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4123,7 +4123,7 @@
         }
       },
       {
-        "HashCode": -1076144634,
+        "HashCode": 852561276,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4155,7 +4155,7 @@
         }
       },
       {
-        "HashCode": -1489665696,
+        "HashCode": 328832791,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4188,7 +4188,7 @@
         }
       },
       {
-        "HashCode": 473124367,
+        "HashCode": 1183582625,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4209,7 +4209,7 @@
         }
       },
       {
-        "HashCode": -1471358381,
+        "HashCode": 250048048,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4231,7 +4231,7 @@
         }
       },
       {
-        "HashCode": 950181722,
+        "HashCode": 695690756,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4250,7 +4250,7 @@
         }
       },
       {
-        "HashCode": -1436453743,
+        "HashCode": -1453651959,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4270,7 +4270,7 @@
         }
       },
       {
-        "HashCode": -694914705,
+        "HashCode": -1553143915,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4302,7 +4302,7 @@
         }
       },
       {
-        "HashCode": 210847185,
+        "HashCode": -203175397,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4335,7 +4335,7 @@
         }
       },
       {
-        "HashCode": -1920557494,
+        "HashCode": 792957024,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4356,7 +4356,7 @@
         }
       },
       {
-        "HashCode": 2025938217,
+        "HashCode": -1849989004,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4378,7 +4378,7 @@
         }
       },
       {
-        "HashCode": -180078658,
+        "HashCode": 1052741412,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4441,7 +4441,7 @@
         }
       },
       {
-        "HashCode": -1693870265,
+        "HashCode": 1042151213,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4505,7 +4505,7 @@
         }
       },
       {
-        "HashCode": 1253843001,
+        "HashCode": -139171536,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4526,7 +4526,7 @@
         }
       },
       {
-        "HashCode": -1239382162,
+        "HashCode": -2070703399,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4548,7 +4548,7 @@
         }
       },
       {
-        "HashCode": 1734537091,
+        "HashCode": 1812478076,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4581,7 +4581,7 @@
         }
       },
       {
-        "HashCode": -1267538761,
+        "HashCode": 2009425375,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4615,7 +4615,7 @@
         }
       },
       {
-        "HashCode": 116863718,
+        "HashCode": 1116350769,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4747,7 +4747,7 @@
         }
       },
       {
-        "HashCode": -1143178386,
+        "HashCode": 1795150918,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4880,7 +4880,7 @@
         }
       },
       {
-        "HashCode": -196195702,
+        "HashCode": 972113290,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4913,7 +4913,7 @@
         }
       },
       {
-        "HashCode": -236913925,
+        "HashCode": -1260502589,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4947,7 +4947,7 @@
         }
       },
       {
-        "HashCode": 1293404028,
+        "HashCode": -1581395403,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4980,7 +4980,7 @@
         }
       },
       {
-        "HashCode": -850090164,
+        "HashCode": 1814356769,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5014,7 +5014,7 @@
         }
       },
       {
-        "HashCode": -2114436850,
+        "HashCode": -879680109,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5047,7 +5047,7 @@
         }
       },
       {
-        "HashCode": -2062807499,
+        "HashCode": -256869561,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5081,7 +5081,7 @@
         }
       },
       {
-        "HashCode": 2110496306,
+        "HashCode": 381814921,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5164,7 +5164,7 @@
         }
       },
       {
-        "HashCode": 630132323,
+        "HashCode": 1316937804,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5247,7 +5247,7 @@
         }
       },
       {
-        "HashCode": 902816010,
+        "HashCode": -1704754908,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5330,7 +5330,7 @@
         }
       },
       {
-        "HashCode": 1700834900,
+        "HashCode": 995886398,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5413,7 +5413,7 @@
         }
       },
       {
-        "HashCode": 157345140,
+        "HashCode": 202641726,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5496,7 +5496,7 @@
         }
       },
       {
-        "HashCode": 139062911,
+        "HashCode": -1107886477,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5579,7 +5579,7 @@
         }
       },
       {
-        "HashCode": -856091330,
+        "HashCode": -1647154363,
         "Kind": "Components.EventHandler",
         "Name": "onmouseleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5662,7 +5662,7 @@
         }
       },
       {
-        "HashCode": 1744384478,
+        "HashCode": 139198471,
         "Kind": "Components.EventHandler",
         "Name": "onmouseenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5745,7 +5745,7 @@
         }
       },
       {
-        "HashCode": 2118877980,
+        "HashCode": -1725448420,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5828,7 +5828,7 @@
         }
       },
       {
-        "HashCode": -1444483109,
+        "HashCode": 1803734715,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5911,7 +5911,7 @@
         }
       },
       {
-        "HashCode": -1445174230,
+        "HashCode": 1868134071,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5994,7 +5994,7 @@
         }
       },
       {
-        "HashCode": -303494372,
+        "HashCode": 480761711,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6077,7 +6077,7 @@
         }
       },
       {
-        "HashCode": -547227295,
+        "HashCode": -1339937649,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6160,7 +6160,7 @@
         }
       },
       {
-        "HashCode": -1832829661,
+        "HashCode": 405181553,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6243,7 +6243,7 @@
         }
       },
       {
-        "HashCode": 1678636525,
+        "HashCode": 785228672,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6326,7 +6326,7 @@
         }
       },
       {
-        "HashCode": 1962107703,
+        "HashCode": 1225532075,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6409,7 +6409,7 @@
         }
       },
       {
-        "HashCode": -1003435219,
+        "HashCode": 1851905694,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6492,7 +6492,7 @@
         }
       },
       {
-        "HashCode": -1624948899,
+        "HashCode": -1534515388,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6575,7 +6575,7 @@
         }
       },
       {
-        "HashCode": 796914876,
+        "HashCode": -1535379931,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6658,7 +6658,7 @@
         }
       },
       {
-        "HashCode": 744853240,
+        "HashCode": -1746383827,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6741,7 +6741,7 @@
         }
       },
       {
-        "HashCode": -313314863,
+        "HashCode": -1250793688,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6824,7 +6824,7 @@
         }
       },
       {
-        "HashCode": 765531012,
+        "HashCode": 2045282560,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6907,7 +6907,7 @@
         }
       },
       {
-        "HashCode": 761437151,
+        "HashCode": 1272311323,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6990,7 +6990,7 @@
         }
       },
       {
-        "HashCode": 894286249,
+        "HashCode": -856696064,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7073,7 +7073,7 @@
         }
       },
       {
-        "HashCode": 2022257238,
+        "HashCode": 738759176,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7156,7 +7156,7 @@
         }
       },
       {
-        "HashCode": -512887960,
+        "HashCode": 1025255677,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7239,7 +7239,7 @@
         }
       },
       {
-        "HashCode": 686298059,
+        "HashCode": 464991266,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7322,7 +7322,7 @@
         }
       },
       {
-        "HashCode": -1279835427,
+        "HashCode": 1681150933,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7405,7 +7405,7 @@
         }
       },
       {
-        "HashCode": -1690223060,
+        "HashCode": 1389589435,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7488,7 +7488,7 @@
         }
       },
       {
-        "HashCode": 1777956019,
+        "HashCode": -900524528,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7571,7 +7571,7 @@
         }
       },
       {
-        "HashCode": -2072004267,
+        "HashCode": -839526279,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7654,7 +7654,7 @@
         }
       },
       {
-        "HashCode": -1333584646,
+        "HashCode": 1306131579,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7737,7 +7737,7 @@
         }
       },
       {
-        "HashCode": 196913165,
+        "HashCode": 1261949733,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7820,7 +7820,7 @@
         }
       },
       {
-        "HashCode": 298828488,
+        "HashCode": 835286259,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7903,7 +7903,7 @@
         }
       },
       {
-        "HashCode": 831113850,
+        "HashCode": -277122962,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7986,7 +7986,7 @@
         }
       },
       {
-        "HashCode": -1010663419,
+        "HashCode": 1777529517,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8069,7 +8069,7 @@
         }
       },
       {
-        "HashCode": -1958128537,
+        "HashCode": -562637366,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8152,7 +8152,7 @@
         }
       },
       {
-        "HashCode": 1324908024,
+        "HashCode": -224547489,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8235,7 +8235,7 @@
         }
       },
       {
-        "HashCode": 869581812,
+        "HashCode": 1063312760,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8318,7 +8318,7 @@
         }
       },
       {
-        "HashCode": 1373809294,
+        "HashCode": -1996722514,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8401,7 +8401,7 @@
         }
       },
       {
-        "HashCode": -88296019,
+        "HashCode": 1230126227,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8484,7 +8484,7 @@
         }
       },
       {
-        "HashCode": -138037173,
+        "HashCode": 836061032,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8567,7 +8567,7 @@
         }
       },
       {
-        "HashCode": 491197239,
+        "HashCode": -1705713387,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8650,7 +8650,7 @@
         }
       },
       {
-        "HashCode": -898158706,
+        "HashCode": -80320813,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8733,7 +8733,7 @@
         }
       },
       {
-        "HashCode": 95007732,
+        "HashCode": 120553513,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8816,7 +8816,7 @@
         }
       },
       {
-        "HashCode": 1823044706,
+        "HashCode": -1505653580,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8899,7 +8899,7 @@
         }
       },
       {
-        "HashCode": -256201340,
+        "HashCode": 1053429289,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8982,7 +8982,7 @@
         }
       },
       {
-        "HashCode": -151040220,
+        "HashCode": -1315685730,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9065,7 +9065,7 @@
         }
       },
       {
-        "HashCode": 791995894,
+        "HashCode": -656799140,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9148,7 +9148,7 @@
         }
       },
       {
-        "HashCode": -1335069461,
+        "HashCode": -35656566,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9231,7 +9231,7 @@
         }
       },
       {
-        "HashCode": -1250952796,
+        "HashCode": -1782195016,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9314,7 +9314,7 @@
         }
       },
       {
-        "HashCode": 816697167,
+        "HashCode": 210774574,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9397,7 +9397,7 @@
         }
       },
       {
-        "HashCode": -213924182,
+        "HashCode": 1754218083,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9480,7 +9480,7 @@
         }
       },
       {
-        "HashCode": -531520689,
+        "HashCode": -258824556,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9563,7 +9563,7 @@
         }
       },
       {
-        "HashCode": -1636849605,
+        "HashCode": -1424698685,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9646,7 +9646,7 @@
         }
       },
       {
-        "HashCode": -1351383546,
+        "HashCode": 1570648315,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9729,7 +9729,7 @@
         }
       },
       {
-        "HashCode": 435500253,
+        "HashCode": -74496494,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9812,7 +9812,7 @@
         }
       },
       {
-        "HashCode": -318550781,
+        "HashCode": 1735458918,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9895,7 +9895,7 @@
         }
       },
       {
-        "HashCode": 897704037,
+        "HashCode": 447177931,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9978,7 +9978,7 @@
         }
       },
       {
-        "HashCode": -1214210476,
+        "HashCode": 1489091057,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10061,7 +10061,7 @@
         }
       },
       {
-        "HashCode": 986329693,
+        "HashCode": -1669106355,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10144,7 +10144,7 @@
         }
       },
       {
-        "HashCode": -1636972547,
+        "HashCode": -1352499574,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10227,7 +10227,7 @@
         }
       },
       {
-        "HashCode": -511965220,
+        "HashCode": 1672971856,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10310,7 +10310,7 @@
         }
       },
       {
-        "HashCode": 1477366647,
+        "HashCode": -1569361498,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10393,7 +10393,7 @@
         }
       },
       {
-        "HashCode": -348028169,
+        "HashCode": -1250777060,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10476,7 +10476,7 @@
         }
       },
       {
-        "HashCode": 993024168,
+        "HashCode": 1252781586,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10559,7 +10559,7 @@
         }
       },
       {
-        "HashCode": -1231559181,
+        "HashCode": 1053731916,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10642,7 +10642,7 @@
         }
       },
       {
-        "HashCode": -48664674,
+        "HashCode": 44546723,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10725,7 +10725,7 @@
         }
       },
       {
-        "HashCode": 1254143463,
+        "HashCode": 1598903287,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10808,7 +10808,7 @@
         }
       },
       {
-        "HashCode": -1309539651,
+        "HashCode": 620990876,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10891,7 +10891,7 @@
         }
       },
       {
-        "HashCode": 1061889598,
+        "HashCode": 1755139846,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10974,7 +10974,7 @@
         }
       },
       {
-        "HashCode": 232862627,
+        "HashCode": 1721263133,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11057,7 +11057,7 @@
         }
       },
       {
-        "HashCode": -262831166,
+        "HashCode": -438428204,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11140,7 +11140,7 @@
         }
       },
       {
-        "HashCode": 1563224944,
+        "HashCode": 730001253,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11223,7 +11223,7 @@
         }
       },
       {
-        "HashCode": 1145399790,
+        "HashCode": 1788814859,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11306,7 +11306,7 @@
         }
       },
       {
-        "HashCode": -342654499,
+        "HashCode": -534747259,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11389,7 +11389,7 @@
         }
       },
       {
-        "HashCode": 343595696,
+        "HashCode": 234973177,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11472,7 +11472,7 @@
         }
       },
       {
-        "HashCode": -1052915175,
+        "HashCode": -120442458,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11555,7 +11555,7 @@
         }
       },
       {
-        "HashCode": 1096371017,
+        "HashCode": 1012047098,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11638,7 +11638,7 @@
         }
       },
       {
-        "HashCode": 2063215165,
+        "HashCode": 1392505405,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11721,7 +11721,7 @@
         }
       },
       {
-        "HashCode": 1716130789,
+        "HashCode": 1316131589,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11804,7 +11804,7 @@
         }
       },
       {
-        "HashCode": 1628319105,
+        "HashCode": 355464121,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11887,7 +11887,7 @@
         }
       },
       {
-        "HashCode": 437454930,
+        "HashCode": 1639777848,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11970,7 +11970,7 @@
         }
       },
       {
-        "HashCode": 459226631,
+        "HashCode": 1795669236,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12053,7 +12053,7 @@
         }
       },
       {
-        "HashCode": -1551720838,
+        "HashCode": 182375578,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12136,7 +12136,7 @@
         }
       },
       {
-        "HashCode": -1716358808,
+        "HashCode": 1748851075,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12219,7 +12219,7 @@
         }
       },
       {
-        "HashCode": 1364076255,
+        "HashCode": 1676557374,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12302,7 +12302,7 @@
         }
       },
       {
-        "HashCode": 997691126,
+        "HashCode": 75948421,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12385,7 +12385,7 @@
         }
       },
       {
-        "HashCode": -927284965,
+        "HashCode": 17484643,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12468,7 +12468,7 @@
         }
       },
       {
-        "HashCode": -281233995,
+        "HashCode": 2026416726,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12551,7 +12551,7 @@
         }
       },
       {
-        "HashCode": -361003355,
+        "HashCode": 963728363,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12634,7 +12634,7 @@
         }
       },
       {
-        "HashCode": -608989364,
+        "HashCode": 2092323832,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12717,7 +12717,7 @@
         }
       },
       {
-        "HashCode": -1604263674,
+        "HashCode": -1135439385,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12800,7 +12800,7 @@
         }
       },
       {
-        "HashCode": 1055108675,
+        "HashCode": 204645905,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12883,7 +12883,7 @@
         }
       },
       {
-        "HashCode": -574353962,
+        "HashCode": 1110931023,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12922,7 +12922,1585 @@
         }
       },
       {
-        "HashCode": 2098879258,
+        "HashCode": 1512160022,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertPrimaryTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create primary alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-primary"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertPrimaryTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertPrimaryTagHelper"
+        }
+      },
+      {
+        "HashCode": -129053369,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertSecondaryTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create secondary alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-secondary"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertSecondaryTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertSecondaryTagHelper"
+        }
+      },
+      {
+        "HashCode": -1275799000,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertSuccessTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create success alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-success"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertSuccessTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertSuccessTagHelper"
+        }
+      },
+      {
+        "HashCode": 1777419440,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertDangerTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create danger alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-danger"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertDangerTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertDangerTagHelper"
+        }
+      },
+      {
+        "HashCode": 1929970933,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertWarningTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create warning alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-warning"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertWarningTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertWarningTagHelper"
+        }
+      },
+      {
+        "HashCode": -219660325,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertInfoTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create info alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-info"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertInfoTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertInfoTagHelper"
+        }
+      },
+      {
+        "HashCode": -704626005,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertLightTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create light alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-light"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertLightTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertLightTagHelper"
+        }
+      },
+      {
+        "HashCode": -1819242352,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertDarkTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create dark alert\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert-dark"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertDarkTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertDarkTagHelper"
+        }
+      },
+      {
+        "HashCode": -1718227902,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.AlertTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Create alert messages styled with bootstrap 4.x\n            Alert contents must be replaced between alert tags e.g. <![CDATA[<alert-success>job done!</alert-success>]]>\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "alert"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "alert-heading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Header text for the alert\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AlertHeading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "dismissable",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show closing button, default is true\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Dismissable"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "slide-alerts",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show multiple alerts as slides\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SlideAlerts"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-icons",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show alert icons from fontawesome.\n            Requires fontawesome css or bootstrap\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowIcons"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "icons-source",
+            "TypeName": "LazZiya.TagHelpers.Alerts.IconsSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose where to get icons source from. \"Bootstrap\" or \"FontAwesome\".\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "IconsSource"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: Bootstrap5 if your project is using bootstrap5, otherwise default is Bootstrap for earlier versions.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "localizer",
+            "TypeName": "Microsoft.Extensions.Localization.IStringLocalizer",
+            "Documentation": "\n            <summary>\n            Parse localizer instance to localize alert message\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Localizer"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.AlertTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "AlertTagHelper"
+        }
+      },
+      {
+        "HashCode": -184848873,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.EmailTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            creates email link with mark if email is confirmed\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "email"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "email-confirmed",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            boolean value to indicate if the email is confirmed or not\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "EmailConfirmed"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.EmailTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "EmailTagHelper"
+        }
+      },
+      {
+        "HashCode": -1715105498,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.LanguageNavTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            creates a language navigation menu, depends on supported cultures\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "language-nav"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "supported-cultures",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            optional: manually specify list of supported cultures\n            <example>\n            en-US,tr, ar\n            </example>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SupportedCultures"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "language-label",
+            "TypeName": "LazZiya.TagHelpers.LanguageLabel",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            optional: what to display as label for language dropdown\n            default: LanguageLabel.EnglishName\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LanguageLabel"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be auto assigned by the tag helpoer.</para>\n            <para>current view context to access RouteData.Values and Request.Query collection</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Choose render mode: classis for regular dropdown list, Bootstrap4 for HTML5 div with Bootstrap4 style.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "cookie-handler-url",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Set the handler url for setting culture cookie on language change\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CookieHandlerUrl"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "redirect-to-url",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The url to redirect to on langugae change. \n            The url must have at one place holder for culture value. \n            e.g. /{0}/Home\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RedirectToUrl"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "flags",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Show relevant country flag for specific culture. \n            Flags will be shown only if the culture is country specific. \n            e.g. \"tr\" will not render any flag, but \"tr-sy\" will render Turkish flag. \n            Required reference to flag-icon-css\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Flags"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "flags-squared",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            true: Show flags in squared images, \n            false: Show flags in rounded images, \n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "FlagsSquared"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.LanguageNavTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "LanguageNavTagHelper"
+        }
+      },
+      {
+        "HashCode": 394268419,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.LocalizationValidationScriptsTagHelperComponentTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Tag helper for client side localized validation scripts.\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "localization-validation-scripts"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "source",
+            "TypeName": "LazZiya.TagHelpers.ScriptSource",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            (optional) define where to load scripts from, Local or JsDelivr.\n            <para>Default: JsDelivr</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Source"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "cldr-core-version",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            (optional) set cldr version to load.\n            <para>Default: 35.1</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CldrVersion"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.LocalizationValidationScriptsTagHelperComponentTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "LocalizationValidationScriptsTagHelperComponentTagHelper"
+        }
+      },
+      {
+        "HashCode": 1290365243,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.PagingTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            Creates a pagination control\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "paging"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "url-template",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            A URL template for paging buttons\n            e.g. \n            <![CDATA[?p={0}&s={1}&q=test]]>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "UrlTemplate"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "view-context",
+            "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ViewContext",
+            "Documentation": "\n            <summary>\n            <para>ViewContext property is not required to be passed as parameter, it will be assigned automatically by the tag helper.</para>\n            <para>View context is required to access TempData dictionary that contains the alerts coming from backend</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ViewContext"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-no",
+            "TypeName": "System.Int32",
+            "Documentation": "\n            <summary>\n            current page number.\n            <para>default: 1</para>\n            <para>example: p=1</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "PageNo"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-size",
+            "TypeName": "System.Int32",
+            "Documentation": "\n            <summary>\n            how many items to get from db per page per request\n            <para>default: 10</para>\n            <para>example: pageSize=10</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "PageSize"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "total-records",
+            "TypeName": "System.Int32",
+            "Documentation": "\n            <summary>\n            Total count of records in the db\n            <para>default: 0</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TotalRecords"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "max-displayed-pages",
+            "TypeName": "System.Int32?",
+            "Documentation": "\n            <summary>\n            if count of pages is too much, restrict shown pages count to specific number\n            <para>default: 10</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "MaxDisplayedPages"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "settings-json",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            name of the settings section in appSettings.json\n            <param>default: \"default\"</param>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SettingsJson"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "fix-url-path",
+            "TypeName": "System.Boolean?",
+            "Documentation": "\n            <summary>\n            Force adding url path to the navigation url\n            in some scenarios when the page is under some area/subFolder\n            The navigation links are pointing to the home page.\n            To force adding url path enable this property\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "FixUrlPath"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-size-dropdown-items",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            A list of dash delimitted numbers for page size dropdown. \n            default: \"10-25-50\"\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "PageSizeDropdownItems"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "query-string-key-page-no",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Query string paramter name for current page.\n            <para>default: p</para>\n            <para>exmaple: p=1</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "QueryStringKeyPageNo"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "query-string-key-page-size",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Query string parameter name for page size\n            <para>default: s</para>\n            <para>example: s=25</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "QueryStringKeyPageSize"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-page-size-nav",
+            "TypeName": "System.Boolean?",
+            "Documentation": "\n            <summary>\n            Show drop down list for different page size options\n            <para>default: true</para>\n            <para>options: true, false</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowPageSizeNav"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-gap",
+            "TypeName": "System.Boolean?",
+            "Documentation": "\n            <summary>\n            Show a three dots after first page or before last page \n            when there is a gap in pages at the beginnig or end\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowGap"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-first-last",
+            "TypeName": "System.Boolean?",
+            "Documentation": "\n            <summary>\n            Show/hide First-Last buttons\n            <para>default: true, if set to false and total pages &gt; max displayed pages it will be true</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowFirstLast"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-prev-next",
+            "TypeName": "System.Boolean?",
+            "Metadata": {
+              "Common.PropertyName": "ShowPrevNext"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-total-pages",
+            "TypeName": "System.Boolean?",
+            "Documentation": "\n            <summary>\n            Show or hide total pages count\n            <para>default: true</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowTotalPages"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "show-total-records",
+            "TypeName": "System.Boolean?",
+            "Documentation": "\n            <summary>\n            Show or hide total records count\n            <para>default: true</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ShowTotalRecords"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-page-size",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The text to display at page size dropdown list label\n            <para>default: Page size </para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextPageSize"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-first",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Text to show on the \"Go To First\" Page button\n            <para>\n            <![CDATA[default: &laquo;]]></para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextFirst"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-last",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Text to show on \"Go to last page\" button\n            <para>\n            <![CDATA[default: &raquo;]]></para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextLast"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-next",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Next button text\n            <para>\n            <![CDATA[default: &rsaquo;]]></para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextNext"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-previous",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            previous button text\n            <para>\n            <![CDATA[default: &lsaquo;]]></para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextPrevious"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-total-pages",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Display text for total pages label\n            <para>default: page</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextTotalPages"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-total-records",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Display text for total records label\n            <para>default: records</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextTotalRecords"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "number-format",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The number display format for page numbers. Use a list of numbers splitted by space e.g. \"0 1 2 3 4 5 6 7 8 9\" or use one from a pre-defined numbers formats in :\n            <see cref=\"T:LazZiya.TagHelpers.Utilities.NumberFormats\" />\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "NumberFormat"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "sr-text-first",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Text for screen readers only\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SrTextFirst"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "sr-text-last",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            text for screen readers only\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SrTextLast"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "sr-text-next",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            text for screenreaders only\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SrTextNext"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "sr-text-previous",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            text for screen readers only\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SrTextPrevious"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "render-mode",
+            "TypeName": "LazZiya.TagHelpers.RenderMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Select bootstrap version\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RenderMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            add custom class to content div\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Class"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-paging-control-div",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            css class for pagination div\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassPagingControlDiv"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-info-div",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ClassInfoDiv"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-page-size-div",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            styling class for page size div\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassPageSizeDiv"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-paging-control",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            pagination control class\n            <para>default: pagination</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassPagingControl"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-active-page",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            class name for the active page\n            <para>default: active</para>\n            <para>examples: disabled, active, ...</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassActivePage"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-disabled-jumping-button",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            name of the class when jumping button is disabled.\n            jumping buttons are prev-next and first-last buttons\n            <param>default: disabled</param>\n            <para>example: disabled, d-hidden</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassDisabledJumpingButton"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-total-records",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            css class for total records info\n            <para>default: badge badge-light</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassTotalRecords"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-total-pages",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            css class for total pages info\n            <para>default: badge badge-light</para>\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassTotalPages"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "class-page-link",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            css class for page link, use for styling bg and text colors\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ClassPageLink"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Set to true to use ajax pagination\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Ajax"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-confirm",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The message to display in a confirmation window before a request is submitted.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxConfirm"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-mode",
+            "TypeName": "LazZiya.TagHelpers.PagingAjaxMode",
+            "IsEnum": true,
+            "Documentation": "\n            <summary>\n             The mode that specifies how to insert the response into the target DOM element. Valid values are before, after and replace. Default is replace\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxMode"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-loading-duration",
+            "TypeName": "System.Int32",
+            "Documentation": "\n            <summary>\n            A value, in milliseconds, that controls the duration of the animation when showing or hiding the loading element.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxLoadingDuration"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-loading",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The id attribute of an HTML element that is displayed while the Ajax function is loading. Default is #loading-spinner\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxLoading"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-begin",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The name of the JavaScript function to call immediately before the page is updated.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxBegin"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-complete",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The JavaScript function to call when response data has been instantiated but before the page is updated.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxComplete"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-failure",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The JavaScript function to call if the page update fails.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxFailure"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-success",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The JavaScript function to call after the page is successfully updated.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxSuccess"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-update",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The ID of the DOM element to update by using the response from the server.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxUpdate"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "ajax-url",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The URL to make the request to.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AjaxUrl"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.PagingTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "PagingTagHelper"
+        }
+      },
+      {
+        "HashCode": 671762752,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.PhoneNumberTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            creates a display for phone number\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "phone-number"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "phone-number-confirmed",
+            "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            boolean value to indicate if the phone number has been confirmed\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "PhoneNumberConfirmed"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.PhoneNumberTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "PhoneNumberTagHelper"
+        }
+      },
+      {
+        "HashCode": -185081979,
+        "Kind": "ITagHelper",
+        "Name": "LazZiya.TagHelpers.SelectEnumTagHelper",
+        "AssemblyName": "LazZiya.TagHelpers",
+        "Documentation": "\n            <summary>\n            creates a dropdown list from custom enum with supports for localization\n            </summary>\n        ",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "select-enum"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "selected-value",
+            "TypeName": "System.Int32",
+            "Documentation": "\n            <summary>\n            (int)MyEnum.ValueName\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "SelectedValue"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "enum-type",
+            "TypeName": "System.Type",
+            "Documentation": "\n            <summary>\n            typeof(MyEnum)\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "EnumType"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "text-localizer-delegate",
+            "TypeName": "System.Func<System.String, System.String>",
+            "Documentation": "\n            <summary>\n            A delegate function for getting locaized value.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "TextLocalizerDelegate"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LazZiya.TagHelpers.SelectEnumTagHelper",
+          "Common.TypeNamespace": "LazZiya.TagHelpers",
+          "Common.TypeNameIdentifier": "SelectEnumTagHelper"
+        }
+      },
+      {
+        "HashCode": -667650600,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -13239,7 +14817,7 @@
         }
       },
       {
-        "HashCode": 437961184,
+        "HashCode": -357041845,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13438,7 +15016,7 @@
         }
       },
       {
-        "HashCode": 57688155,
+        "HashCode": -497060148,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13567,7 +15145,7 @@
         }
       },
       {
-        "HashCode": 681163340,
+        "HashCode": -1934611253,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13624,7 +15202,7 @@
         }
       },
       {
-        "HashCode": -1050457645,
+        "HashCode": -2067837820,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13758,7 +15336,7 @@
         }
       },
       {
-        "HashCode": 342126983,
+        "HashCode": -33403014,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13806,7 +15384,7 @@
         }
       },
       {
-        "HashCode": 1734265995,
+        "HashCode": -1713812834,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14225,7 +15803,7 @@
         }
       },
       {
-        "HashCode": 1456109273,
+        "HashCode": 876395550,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14329,7 +15907,7 @@
         }
       },
       {
-        "HashCode": -344829334,
+        "HashCode": -510873750,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14377,7 +15955,7 @@
         }
       },
       {
-        "HashCode": 1235873738,
+        "HashCode": 585729009,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14449,7 +16027,7 @@
         }
       },
       {
-        "HashCode": 967934544,
+        "HashCode": -267859256,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14484,7 +16062,7 @@
         }
       },
       {
-        "HashCode": -991353966,
+        "HashCode": 1571388099,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14682,7 +16260,7 @@
         }
       },
       {
-        "HashCode": -1169994977,
+        "HashCode": 946944032,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14712,7 +16290,7 @@
         }
       },
       {
-        "HashCode": 841953447,
+        "HashCode": -1388772161,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14795,7 +16373,7 @@
         }
       },
       {
-        "HashCode": 617899906,
+        "HashCode": -47950566,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14826,7 +16404,7 @@
         }
       },
       {
-        "HashCode": 1691159242,
+        "HashCode": 1437316538,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14981,7 +16559,7 @@
         }
       },
       {
-        "HashCode": 678311051,
+        "HashCode": -234358553,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15042,7 +16620,7 @@
         }
       },
       {
-        "HashCode": 1058543685,
+        "HashCode": -439039686,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15086,7 +16664,7 @@
         }
       },
       {
-        "HashCode": -1522909973,
+        "HashCode": 1484903175,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15121,7 +16699,7 @@
         }
       },
       {
-        "HashCode": -1417967183,
+        "HashCode": 1801049539,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15157,7 +16735,7 @@
         }
       },
       {
-        "HashCode": 1971010785,
+        "HashCode": -2062160171,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15253,7 +16831,7 @@
         }
       },
       {
-        "HashCode": -832551302,
+        "HashCode": 1246089946,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15375,7 +16953,7 @@
         }
       },
       {
-        "HashCode": 45348129,
+        "HashCode": 263692503,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15497,7 +17075,7 @@
         }
       },
       {
-        "HashCode": -763239391,
+        "HashCode": -1732268237,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15630,7 +17208,7 @@
         }
       },
       {
-        "HashCode": 1278528198,
+        "HashCode": -1673481477,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15763,7 +17341,7 @@
         }
       },
       {
-        "HashCode": -1303161691,
+        "HashCode": -180901242,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15896,7 +17474,7 @@
         }
       },
       {
-        "HashCode": 313139795,
+        "HashCode": 1361374456,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16029,7 +17607,7 @@
         }
       },
       {
-        "HashCode": -1483995288,
+        "HashCode": -1257430465,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16162,7 +17740,7 @@
         }
       },
       {
-        "HashCode": -856000907,
+        "HashCode": -1140650962,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16295,7 +17873,7 @@
         }
       },
       {
-        "HashCode": 1003335773,
+        "HashCode": -787026981,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16428,7 +18006,7 @@
         }
       },
       {
-        "HashCode": -1523858613,
+        "HashCode": -722556247,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16561,7 +18139,7 @@
         }
       },
       {
-        "HashCode": 425563472,
+        "HashCode": -233804827,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16694,7 +18272,7 @@
         }
       },
       {
-        "HashCode": 512098852,
+        "HashCode": -249449460,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16827,7 +18405,7 @@
         }
       },
       {
-        "HashCode": -1664342758,
+        "HashCode": -1835319282,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16960,7 +18538,7 @@
         }
       },
       {
-        "HashCode": 658540991,
+        "HashCode": -1934564634,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17093,7 +18671,7 @@
         }
       },
       {
-        "HashCode": 597242686,
+        "HashCode": 99192449,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17215,7 +18793,7 @@
         }
       },
       {
-        "HashCode": 613931175,
+        "HashCode": -282147695,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17337,7 +18915,7 @@
         }
       },
       {
-        "HashCode": 747662071,
+        "HashCode": -967964342,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17424,7 +19002,7 @@
         }
       },
       {
-        "HashCode": 99564023,
+        "HashCode": 1062755807,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17512,7 +19090,7 @@
         }
       },
       {
-        "HashCode": -910506178,
+        "HashCode": -77579591,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17599,7 +19177,7 @@
         }
       },
       {
-        "HashCode": 1477099969,
+        "HashCode": 1562773592,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17687,7 +19265,7 @@
         }
       },
       {
-        "HashCode": -587129594,
+        "HashCode": -1141196659,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17774,7 +19352,7 @@
         }
       },
       {
-        "HashCode": 1932732821,
+        "HashCode": -1847802558,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17862,7 +19440,7 @@
         }
       },
       {
-        "HashCode": -340458987,
+        "HashCode": -2129117858,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17949,7 +19527,7 @@
         }
       },
       {
-        "HashCode": -1038570094,
+        "HashCode": -1282568425,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18037,7 +19615,7 @@
         }
       },
       {
-        "HashCode": -1306363941,
+        "HashCode": -1817024329,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18124,7 +19702,7 @@
         }
       },
       {
-        "HashCode": 1477037829,
+        "HashCode": -665423710,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18212,7 +19790,7 @@
         }
       },
       {
-        "HashCode": -547603374,
+        "HashCode": -555562373,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18299,7 +19877,7 @@
         }
       },
       {
-        "HashCode": 1330880278,
+        "HashCode": 1405691017,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18387,7 +19965,7 @@
         }
       },
       {
-        "HashCode": 1899856036,
+        "HashCode": 2001796550,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18474,7 +20052,7 @@
         }
       },
       {
-        "HashCode": -1523433422,
+        "HashCode": 1122956462,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18562,7 +20140,7 @@
         }
       },
       {
-        "HashCode": 2128633734,
+        "HashCode": -873266566,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18601,7 +20179,7 @@
         }
       },
       {
-        "HashCode": -895884834,
+        "HashCode": -1359996690,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18645,13 +20223,98 @@
   "RootNamespace": "AdminPoodle",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Pup\\Edit.cshtml",
-      "TargetPath": "Views\\Pup\\Edit.cshtml",
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Details.cshtml",
-      "TargetPath": "Views\\News\\Details.cshtml",
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Delete.cshtml",
+      "TargetPath": "Views\\Buyer\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Pup\\Create.cshtml",
+      "TargetPath": "Views\\Pup\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Details.cshtml",
+      "TargetPath": "Views\\Buyer\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Delete.cshtml",
+      "TargetPath": "Views\\News\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Create.cshtml",
+      "TargetPath": "Views\\News\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Index.cshtml",
+      "TargetPath": "Views\\Buyer\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Edit.cshtml",
+      "TargetPath": "Views\\Buyer\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Interest\\Index.cshtml",
+      "TargetPath": "Views\\Interest\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Interest\\Edit.cshtml",
+      "TargetPath": "Views\\Interest\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Index.cshtml",
+      "TargetPath": "Views\\News\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18660,8 +20323,28 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Delete.cshtml",
-      "TargetPath": "Views\\Buyer\\Delete.cshtml",
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Pup\\Index.cshtml",
+      "TargetPath": "Views\\Pup\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Pup\\Edit.cshtml",
+      "TargetPath": "Views\\Pup\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Interest\\Details.cshtml",
+      "TargetPath": "Views\\Interest\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Edit.cshtml",
+      "TargetPath": "Views\\News\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Details.cshtml",
+      "TargetPath": "Views\\News\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18675,48 +20358,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Edit.cshtml",
-      "TargetPath": "Views\\Buyer\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Pup\\Index.cshtml",
-      "TargetPath": "Views\\Pup\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Interest\\Create.cshtml",
       "TargetPath": "Views\\Interest\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Index.cshtml",
-      "TargetPath": "Views\\Buyer\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18725,58 +20368,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Pup\\Create.cshtml",
-      "TargetPath": "Views\\Pup\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Edit.cshtml",
-      "TargetPath": "Views\\News\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Pup\\Details.cshtml",
       "TargetPath": "Views\\Pup\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Interest\\Index.cshtml",
-      "TargetPath": "Views\\Interest\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Delete.cshtml",
-      "TargetPath": "Views\\News\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Create.cshtml",
-      "TargetPath": "Views\\News\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\News\\Index.cshtml",
-      "TargetPath": "Views\\News\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18785,28 +20378,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Interest\\Details.cshtml",
-      "TargetPath": "Views\\Interest\\Details.cshtml",
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Buyer\\Details.cshtml",
-      "TargetPath": "Views\\Buyer\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Interest\\Edit.cshtml",
-      "TargetPath": "Views\\Interest\\Edit.cshtml",
+      "FilePath": "c:\\Users\\maxor\\AdminPoodle\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {

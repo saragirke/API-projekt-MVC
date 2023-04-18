@@ -9,6 +9,7 @@
       "AdminPoodle/1.0.0": {
         "dependencies": {
           "LazZiya.ImageResize": "4.1.4",
+          "LazZiya.TagHelpers": "6.0.2",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "7.0.0",
           "Microsoft.AspNetCore.Hosting": "2.2.7",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.0",
@@ -74,6 +75,14 @@
           "lib/netstandard2.0/LazZiya.ImageResize.dll": {
             "assemblyVersion": "4.1.4.0",
             "fileVersion": "4.1.4.0"
+          }
+        }
+      },
+      "LazZiya.TagHelpers/6.0.2": {
+        "runtime": {
+          "lib/net6.0/LazZiya.TagHelpers.dll": {
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.2.0"
           }
         }
       },
@@ -2670,6 +2679,13 @@
       "sha512": "sha512-/6Kexzt94MQtRXku8wFmwCrcS62hzHdZPyZGN7Qcrpg4jwQVzZjvv7ub/tM8SqE0hxPW62mW1yTSiSU6Ci7mmQ==",
       "path": "lazziya.imageresize/4.1.4",
       "hashPath": "lazziya.imageresize.4.1.4.nupkg.sha512"
+    },
+    "LazZiya.TagHelpers/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qYWVS9Mx61jmYrI+iNhw6vyH5u4W/VsAy0aTeKplNDU63K2WVSI7RdvWKSXuti0kZn+iQGkwpHz820ukCTTpPQ==",
+      "path": "lazziya.taghelpers/6.0.2",
+      "hashPath": "lazziya.taghelpers.6.0.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.0": {
       "type": "package",
